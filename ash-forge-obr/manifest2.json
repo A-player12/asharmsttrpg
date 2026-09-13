@@ -1,0 +1,16 @@
+{
+  "name": "Ash Forge Companion",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "author": "Ash Forge",
+  "homepage_url": "https://comfy-rolypoly-08764e.netlify.app/",
+  "icon": "/icon.svg",
+  "description": "Import Ash Forge builds, create tokens, and run combat in Owlbear Rodeo.",
+  "action": {
+    "title": "Ash Forge",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "height": 640,
+    "width": 420
+  }
+}
