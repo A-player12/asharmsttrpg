@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ash Forge Companion</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div id="app">
+    <nav class="tabs">
+      <button class="tab-btn active" data-tab="import">Import</button>
+      <button class="tab-btn" data-tab="sheet">Sheet</button>
+    </nav>
+
+    <section id="tab-import" class="tab-panel active">
+      <h2>Import a build</h2>
+      <p class="hint">Paste the JSON exported from Ash Forge, or upload the file.</p>
+      <textarea id="json-input" placeholder="Paste build/backup JSON here..."></textarea>
+      <div class="row">
+        <input type="file" id="file-input" accept="application/json" />
+        <button id="parse-btn">Load</button>
+      </div>
+      <div id="parse-error" class="error"></div>
+      <div id="builds-list"></div>
+    </section>
+
+    <section id="tab-sheet" class="tab-panel">
+      <h2>Selected token</h2>
+      <div id="sheet-empty" class="hint">Select a token created by Ash Forge to see its sheet here.</div>
+      <div id="sheet-content" style="display:none"></div>
+    </section>
+  </div>
+
+  <script type="module" src="./main.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "name": "Ash Forge Companion",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Ash Forge",
+    "description": "Import Ash Arms: Limelight builds, create tokens, and run Siege/Mobile combat.",
+    "icon": "./icon.svg",
+    "popover": "./index.html",
+    "height": 640,
+    "width": 420
+  }
+}
