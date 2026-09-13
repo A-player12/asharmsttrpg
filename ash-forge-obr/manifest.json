@@ -1,0 +1,12 @@
+{
+  "name": "Ash Forge Companion",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Ash Forge",
+    "icon": "./icon.svg",
+    "popover": "./index.html",
+    "height": 640,
+    "width": 420
+  }
+}
