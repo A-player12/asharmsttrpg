@@ -1,9 +1,5 @@
 // gamedata.js — ported from the Base44 app's gamedata.js.
-// NOTE: Battle Tactics data was captured mid-copy-paste. "ambush" only has
-// 2 of its skills, and "coverfire" / "artillery" tactics are referenced by
-// CLASSES but have no definition here yet. Anything missing is handled
-// gracefully in stats.js / sheet UI (shows "no data yet" instead of crashing).
-// Paste the rest into BATTLE_TACTICS below when you find it.
+// Battle Tactics data (all 7 tactics + all 7 tier-2 upgrades) is now complete.
 
 export const CLASSES = [
   {
@@ -117,7 +113,7 @@ export function factionBonusApplies(faction, classId) {
 }
 
 // Battle Tactics — each grants a skill kit (Mobile + Siege skills) and bonus stats.
-// Tier-1 (base) tactics, now complete for all 7.
+// Complete set of all 7 tactics (ported verbatim).
 export const BATTLE_TACTICS = [
   {
     id: "frontline", name: "Frontline",
@@ -203,12 +199,10 @@ export const BATTLE_TACTICS = [
 
 export function getTactic(id) { return BATTLE_TACTICS.find((t) => t.id === id); }
 
-// Tier-2 tactic upgrades. Only frontline/assault/defender are complete —
-// firesupport's data was cut off mid-paste (bonusStats + all skills missing),
-// and ambush/coverfire/artillery have no upgrade data at all yet.
+// Tier-2 tactic upgrades — complete for all 7 tactics now.
 export const TACTIC_UPGRADES = {
   frontline: {
-    name: "Frontline II",
+    tier: 2, name: "Frontline II",
     bonusStats: { groundFP: "+5%", penetration: "+10%", armor: "-5%", accuracy: "+5", mobility: "+15", threat: "-3", critRate: "+5%", critDamage: "+20%" },
     skills: [
       { name: "Precision Strike", mode: "Mobile", cp: 0, ap: 2, power: "100%", desc: "Attacks the enemy 1-2 tiles ahead and marks it for 3 turns. The unit moves back 1 tile after the attack." },
@@ -219,7 +213,7 @@ export const TACTIC_UPGRADES = {
     upgradeCost: [{ material: "steel", amount: 10 }, { material: "titanium", amount: 5 }, { material: "electronics", amount: 3 }],
   },
   assault: {
-    name: "Assault II",
+    tier: 2, name: "Assault II",
     bonusStats: { groundFP: "+15%", penetration: "+16%", armor: "+11%", accuracy: "+5", mobility: "+8", critRate: "+5%", critDamage: "+20%", luck: "+5" },
     skills: [
       { name: "Break Strike", mode: "Mobile", cp: 0, ap: 1, power: "100%", desc: "Attacks the enemy 2 tiles ahead and inflicts break status. +15% armor for 2 turns after. Break status enemies take -18% armor/mobility before this attack." },
@@ -230,7 +224,7 @@ export const TACTIC_UPGRADES = {
     upgradeCost: [{ material: "steel", amount: 12 }, { material: "titanium", amount: 6 }, { material: "electronics", amount: 4 }],
   },
   defender: {
-    name: "Defender II",
+    tier: 2, name: "Defender II",
     bonusStats: { groundFP: "+10%", armor: "+30%", accuracy: "+15", mobility: "-10", threat: "+3" },
     skills: [
       { name: "Provoking Strike", mode: "Mobile", cp: 3, ap: 1, power: "100%", desc: "Attacks the enemy 1 tile ahead. +25% crit rate and +2 provocation for this attack. +20% damage reduction for the rest of the turn." },
@@ -240,26 +234,82 @@ export const TACTIC_UPGRADES = {
     ],
     upgradeCost: [{ material: "steel", amount: 15 }, { material: "titanium", amount: 8 }, { material: "electronics", amount: 3 }],
   },
-  // firesupport: TODO — bonusStats cut off after "threat:", no skills captured. Paste when found.
+  firesupport: {
+    tier: 2, name: "Fire Support II",
+    bonusStats: { groundFP: "+30%", penetration: "+20%", accuracy: "+25", threat: "+2" },
+    skills: [
+      { name: "Marking Shot", mode: "Mobile", cp: 0, ap: 1, power: "100%", desc: "Attacks the enemy 1 tile ahead. If the enemy is marked, +30% FP for this attack." },
+      { name: "Break Bombardment", mode: "Siege", cp: 5, ap: 2, power: "100%", desc: "Attacks the enemy 2-3 tiles ahead and inflicts break status. If the enemy is marked, launches another attack." },
+      { name: "Marked Annihilation", mode: "Siege", cp: 3, ap: 2, power: "150%", desc: "Attacks a marked enemy. +30% FP for this attack." },
+    ],
+    upgradeCost: [{ material: "steel", amount: 8 }, { material: "titanium", amount: 5 }, { material: "electronics", amount: 6 }],
+  },
+  ambush: {
+    tier: 2, name: "Ambush II",
+    bonusStats: { accuracy: "+15", mobility: "-10", threat: "-1", critRate: "+18%", critDamage: "+15%" },
+    skills: [
+      { name: "Concealment", mode: "Mobile", cp: 3, ap: 1, power: "—", desc: "Removes any mark on your unit. +28% crit rate, -2 provocation for 2 turns. Enters stealth this turn." },
+      { name: "Sniper Shot", mode: "Mobile", cp: 0, ap: 1, power: "100%", desc: "Attacks an enemy 1 tile ahead. +28% crit rate if stealthed; +33% crit damage if target has break status." },
+      { name: "Kill Shot", mode: "Siege", cp: 3, ap: 2, power: "100%", desc: "Attacks a marked enemy. +30% FP for this attack, plus stealth/break bonuses as above." },
+      { name: "Overwatch Trap", mode: "Siege", cp: 5, ap: 2, power: "—", desc: "Attacks all enemies that move within 1-4 tiles ahead during their turn. +24% FP if the enemy is marked." },
+    ],
+    upgradeCost: [{ material: "titanium", amount: 6 }, { material: "electronics", amount: 8 }, { material: "rare-earth", amount: 2 }],
+  },
+  coverfire: {
+    tier: 2, name: "Cover Fire II",
+    bonusStats: { groundFP: "+15%", penetration: "+6%", armor: "+10%", accuracy: "+5", mobility: "-5", threat: "+1", luck: "+12" },
+    skills: [
+      { name: "Suppressing Assault", mode: "Mobile", cp: 3, ap: 2, power: "100%", desc: "Goes into Siege mode. Attacks an enemy 1-2 tiles ahead and marks it for 3 turns." },
+      { name: "Focused Bombardment", mode: "Siege", cp: 3, ap: 2, power: "100%", desc: "Attacks a marked enemy. +30% FP for this attack. Marks yourself for 2 turns afterward." },
+      { name: "Counter Fire", mode: "Siege", cp: 5, ap: 2, power: "—", desc: "Counterattack all enemies that attack within 1-4 tiles ahead during their turn." },
+    ],
+    upgradeCost: [{ material: "steel", amount: 10 }, { material: "titanium", amount: 6 }, { material: "electronics", amount: 5 }],
+  },
+  artillery: {
+    tier: 2, name: "Artillery II",
+    bonusStats: { groundFP: "+20%", accuracy: "-8", threat: "+2", critDamage: "+10%" },
+    skills: [
+      { name: "Siege Transition", mode: "Mobile", cp: 3, ap: 1, power: "—", desc: "Goes into siege mode. If an enemy is 2 tiles ahead, +16% accuracy/penetration for 2 turns. Carries out an additional attack on your next turn if you attack." },
+      { name: "Area Bombardment", mode: "Mobile", cp: 0, ap: 1, power: "100%", desc: "Attacks an enemy 1-2 tiles ahead." },
+      { name: "Marked Annihilation", mode: "Siege", cp: 3, ap: 1, power: "75%", desc: "Attacks all marked enemies. +15% FP for this attack." },
+      { name: "Suppressing Barrage", mode: "Siege", cp: 3, ap: 2, power: "75%", desc: "Attacks all enemies at 2-3 tiles ahead. -15% FP, -3 provocation for 2 turns. 15% chance to stun for 2 turns." },
+    ],
+    upgradeCost: [{ material: "steel", amount: 12 }, { material: "electronics", amount: 8 }, { material: "rare-earth", amount: 3 }],
+  },
 };
 
-export function getTacticUpgrade(id) { return TACTIC_UPGRADES[id] || null; }
+// Ported verbatim from the source app's own accessor functions.
+export function getTacticTierData(tacticId, tier) {
+  const tactic = getTactic(tacticId);
+  if (!tactic) return null;
+  const baseData = { tier: 1, name: tactic.name + " I", desc: tactic.desc, bonusStats: tactic.bonusStats, skills: tactic.skills };
+  if (tier <= 1) return baseData;
+  const upgrade = TACTIC_UPGRADES[tacticId];
+  if (upgrade && upgrade.tier === tier) return upgrade;
+  return baseData;
+}
+export function getMaxTacticTier(tacticId) {
+  const upgrade = TACTIC_UPGRADES[tacticId];
+  return upgrade ? upgrade.tier : 1;
+}
+export function canUpgradeTactic(tacticId, currentTier) {
+  return currentTier < getMaxTacticTier(tacticId);
+}
 
-// [A4] Assumption: build.doll.tacticUpgrades is keyed by tactic id, and a
-// truthy value (any value observed so far was just `{}` empty in your
-// exports) means the tier-2 upgrade is unlocked for that tactic. If the
-// real structure turns out to be e.g. { frontline: 2 } vs { frontline: false },
-// this still works since we only check truthiness — but worth confirming.
+// [A4] Assumption: build.doll.tacticUpgrades is keyed by tactic id, with a
+// numeric tier as the value (e.g. { frontline: 2 }). Every export we've
+// seen so far only had `tacticUpgrades: {}` (never populated), so this is
+// untested against real unlocked data — if it turns out to store something
+// else (e.g. a boolean), this still degrades reasonably: any truthy
+// non-number is treated as tier 2.
 export function getEffectiveTactic(build) {
   const baseId = build?.doll?.battleTactic;
   const base = getTactic(baseId);
   if (!base) return null;
-  const unlocked = build?.doll?.tacticUpgrades?.[baseId];
-  const upgrade = TACTIC_UPGRADES[baseId];
-  if (unlocked && upgrade) {
-    return { id: baseId, name: upgrade.name, bonusStats: upgrade.bonusStats, skills: upgrade.skills, isUpgraded: true, baseName: base.name };
-  }
-  return { id: baseId, name: base.name, bonusStats: base.bonusStats, skills: base.skills, isUpgraded: false, incomplete: !upgrade && !!unlocked };
+  const raw = build?.doll?.tacticUpgrades?.[baseId];
+  const currentTier = typeof raw === "number" ? raw : raw ? 2 : 1;
+  const data = getTacticTierData(baseId, currentTier);
+  return { id: baseId, ...data, isUpgraded: currentTier > 1, baseName: base.name };
 }
 
 // Retrofit tree — additive numeric bonuses stack from every unlocked node
