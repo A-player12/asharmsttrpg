@@ -1,0 +1,1408 @@
+===== Stardust (USA) =====
+nation, name, tier
+Stardust (USA), 20 mm Hispano-Suiza Birkigt Gun (M2), 1
+Stardust (USA), 37 mm Gun M1916, 1
+Stardust (USA), 37 mm Semiautomatic Gun M1924, 1
+Stardust (USA), 37 mm Semiautomatic Gun M1924A1, 1
+Stardust (USA), Browning MG caliber .50 HB, M2, 1
+Stardust (USA), 20 mm Hispano-Suiza Birkigt Gun, 2
+Stardust (USA), 20 mm Hispano-Suiza Birkigt Gun, 2
+Stardust (USA), 37 mm AT Gun M3, 2
+Stardust (USA), 37 mm Browning Semiautomatic Gun, 2
+Stardust (USA), 37 mm Gun M5, 2
+Stardust (USA), 37 mm Gun M5 (M2), 2
+Stardust (USA), 37 mm Gun M5 (M3), 2
+Stardust (USA), 75 mm Pack Howitzer M1, 2
+Stardust (USA), 105 mm Howitzer M3, 3
+Stardust (USA), 37 mm Browning Semi-Automatic, 3
+Stardust (USA), 37 mm Gun M1916E2, 3
+Stardust (USA), 37 mm Gun M6, 3
+Stardust (USA), 37 mm Gun M6, 3
+Stardust (USA), 37 mm Gun M6 (M3), 3
+Stardust (USA), 37 mm Gun M6 (M5), 3
+Stardust (USA), 37 mm Gun M6E3, 3
+Stardust (USA), 57 mm Gun M1 (M8A1), 3
+Stardust (USA), 75 mm Gun M2 (T6), 3
+Stardust (USA), 75 mm Howitzer M3, 3
+Stardust (USA), 105 mm Howitzer M2A1, 4
+Stardust (USA), 3-inch AT Gun M1918, 4
+Stardust (USA), 3-inch AT Gun M7 (M10), 4
+Stardust (USA), 3-inch Gun M7 (T1), 4
+Stardust (USA), 37 mm Gun T16, 4
+Stardust (USA), 75 mm AT Gun M3, 4
+Stardust (USA), 75 mm AT Howitzer M1A1, 4
+Stardust (USA), 75 mm Gun M2, 4
+Stardust (USA), 75 mm Gun M2L, 4
+Stardust (USA), 75 mm Gun M3, 4
+Stardust (USA), 75 mm Gun M3, 4
+Stardust (USA), 75 mm Gun M3 (T6), 4
+Stardust (USA), 75 mm Gun M3A1, 4
+Stardust (USA), 75 mm Gun M3L, 4
+Stardust (USA), 75 mm Gun M6, 4
+Stardust (USA), 75 mm Howitzer M1A1, 4
+Stardust (USA), QF 2-pdr Mk. IX, 4
+Stardust (USA), QF 6-pdr Mk. III, 4
+Stardust (USA), QF 6-pdr Mk. IIIA, 4
+Stardust (USA), 105 mm AT Howitzer M3, 5
+Stardust (USA), 105 mm Howitzer M4, 5
+Stardust (USA), 105 mm M4, 5
+Stardust (USA), 105 mm M4 (M4A1), 5
+Stardust (USA), 155 mm Howitzer M1, 5
+Stardust (USA), 155 mm Howitzer M1 (M41), 5
+Stardust (USA), 3-inch AT Gun M7, 5
+Stardust (USA), 3-inch Gun M7, 5
+Stardust (USA), 37 mm dual automatic cannon, 5
+Stardust (USA), 57 mm Gun M1, 5
+Stardust (USA), 75 mm Gun M17, 5
+Stardust (USA), 75 mm Gun M6V, 5
+Stardust (USA), 75 mm Gun T13E1, 5
+Stardust (USA), 76 mm AT Gun M1A2 (M10), 5
+Stardust (USA), 76 mm AT Gun M1A2 (M36), 5
+Stardust (USA), 76 mm AT Gun M1A2/18, 5
+Stardust (USA), 76 mm Gun M1A1 (M4A1), 5
+Stardust (USA), 76 mm Gun M1A1 (M4A3), 5
+Stardust (USA), 76 mm Gun M1A1 (T1), 5
+Stardust (USA), 76 mm Gun M1A1 RMT, 5
+Stardust (USA), 76 mm Gun T91E5, 5
+Stardust (USA), 76 mm Gun T94, 5
+Stardust (USA), 155 mm Gun M1918M1, 6
+Stardust (USA), 155 mm Howitzer M45, 6
+Stardust (USA), 75 mm Gun T94N, 6
+Stardust (USA), 76 mm AT Gun M1A1, 6
+Stardust (USA), 76 mm Gun M1A1, 6
+Stardust (USA), 76 mm Gun M1A1, 6
+Stardust (USA), 76 mm Gun M1A1E20, 6
+Stardust (USA), 76 mm Gun M1A1L, 6
+Stardust (USA), 76 mm Gun M1A2, 6
+Stardust (USA), 76 mm Gun M1A2, 6
+Stardust (USA), 76 mm Gun M1A2, 6
+Stardust (USA), 76 mm Gun M1A2 (CMCD), 6
+Stardust (USA), 76 mm Gun M1A2E8, 6
+Stardust (USA), 76 mm Gun M1A2L, 6
+Stardust (USA), 76 mm Gun T91, 6
+Stardust (USA), 90 mm AT Gun M3 (M36), 6
+Stardust (USA), 90 mm AT Gun M3/18, 6
+Stardust (USA), 90 mm AT Gun M3/2, 6
+Stardust (USA), 90 mm AT Gun T15E2 (T25 AT), 6
+Stardust (USA), 90 mm Gun M3 (M6), 6
+Stardust (USA), 90 mm Gun M3 (T29), 6
+Stardust (USA), 90 mm Gun M41 P, 6
+Stardust (USA), 90 mm Gun M41 Y, 6
+Stardust (USA), 105 mm AT Gun T5E1 (T25 AT), 7
+Stardust (USA), 105 mm AT Gun T5E1 (T28), 7
+Stardust (USA), 105 mm AT Gun T5E1/28P, 7
+Stardust (USA), 105 mm Gun T5, 7
+Stardust (USA), 105 mm Gun T5E1, 7
+Stardust (USA), 155 mm Gun M1A1, 7
+Stardust (USA), 155 mm Gun M1A1 (M12), 7
+Stardust (USA), 75 mm Ares MC-AAAC, 7
+Stardust (USA), 76 mm Gun M32, 7
+Stardust (USA), 76 mm Gun T185, 7
+Stardust (USA), 76 mm Gun T185, 7
+Stardust (USA), 76 mm Gun T185 (CMCD), 7
+Stardust (USA), 76 mm Gun T185E, 7
+Stardust (USA), 76 mm Gun T185E1, 7
+Stardust (USA), 90 mm AT Gun M3T, 7
+Stardust (USA), 90 mm AT Gun T15E2/2, 7
+Stardust (USA), 90 mm Gun M3, 7
+Stardust (USA), 90 mm Gun M3A1, 7
+Stardust (USA), 90 mm Gun M3E, 7
+Stardust (USA), 90 mm Gun M3E26, 7
+Stardust (USA), 90 mm Gun T15E2, 7
+Stardust (USA), 90 mm Gun T208 (rifled), 7
+Stardust (USA), 90 mm Gun T208 (rifled) HLY, 7
+Stardust (USA), 90 mm Gun T7, 7
+Stardust (USA), 90mm Gun M3, 7
+Stardust (USA), OQF 17-pdr Gun Mk. VIIA, 7
+Stardust (USA), 105 mm AT Gun T5E1 (T95), 8
+Stardust (USA), 105 mm Gun T254 Y III, 8
+Stardust (USA), 105 mm Gun T254 Y VI, 8
+Stardust (USA), 105 mm Gun T5E1/45, 8
+Stardust (USA), 105 mm Gun T5E1/45, 8
+Stardust (USA), 105 mm Gun T5E1E, 8
+Stardust (USA), 105 mm Gun T5E1M, 8
+Stardust (USA), 105 mm Gun T8, 8
+Stardust (USA), 105 mm T140 Y IV, 8
+Stardust (USA), 105 mm T254A, 8
+Stardust (USA), 105-mm Gun T5E1A, 8
+Stardust (USA), 105mm Gun T140E5, 8
+Stardust (USA), 120 mm AT Gun T53 (T28), 8
+Stardust (USA), 120 mm AT Gun T53/28P, 8
+Stardust (USA), 120 mm AT Gun T53/30, 8
+Stardust (USA), 120 mm Gun T122, 8
+Stardust (USA), 155 mm Gun M46, 8
+Stardust (USA), 75 mm Ares ADMAG, 8
+Stardust (USA), 75 mm Ares «Super», 8
+Stardust (USA), 76 mm Gun M32 late, 8
+Stardust (USA), 76 mm Gun M32 late, 8
+Stardust (USA), 8,8 cm Kw.K. 43, 8
+Stardust (USA), 8-inch Howitzer M1, 8
+Stardust (USA), 90 mm Gun M36, 8
+Stardust (USA), 90 mm Gun M41E1, 8
+Stardust (USA), 90 mm Gun M41E1L, 8
+Stardust (USA), 90 mm Gun M54, 8
+Stardust (USA), 90 mm Gun T114, 8
+Stardust (USA), 90 mm Gun T132E3, 8
+Stardust (USA), 90 mm Gun T15E1, 8
+Stardust (USA), 90 mm Gun T15E2M2, 8
+Stardust (USA), 90 mm Gun T178, 8
+Stardust (USA), 90 mm Gun T178 (T69), 8
+Stardust (USA), 90 mm Gun T7E1, 8
+Stardust (USA), 94 mm British DB Gun, 8
+Stardust (USA), 105 mm Gun M68P, 9
+Stardust (USA), 105 mm Gun T140E2, 9
+Stardust (USA), 105 mm Gun T140E3, 9
+Stardust (USA), 105 mm Gun T5E1M2, 9
+Stardust (USA), 105 mm Gun T5E1M2, 9
+Stardust (USA), 105 mm T141E5 AT, 9
+Stardust (USA), 120 mm AT Gun T53 (T95), 9
+Stardust (USA), 120 mm American British Gun, 9
+Stardust (USA), 120 mm American British Gun RC, 9
+Stardust (USA), 120 mm American British Gun RC, 9
+Stardust (USA), 120 mm Delta SPHT, 9
+Stardust (USA), 120 mm Gun M58 (M103), 9
+Stardust (USA), 120 mm Gun T123E7, 9
+Stardust (USA), 120 mm Gun T179 in Mount 169, 9
+Stardust (USA), 120 mm Gun T53A1, 9
+Stardust (USA), 120 mm Gun T53E1, 9
+Stardust (USA), 120 mm T123E1, 9
+Stardust (USA), 152 mm Gun-Launcher XM81 (conventional T49), 9
+Stardust (USA), 155 mm AT Gun T7, 9
+Stardust (USA), 155 mm AT Gun T7 (T95), 9
+Stardust (USA), 155 mm AT Gun T7/30, 9
+Stardust (USA), 8-inch Howitzer M47, 9
+Stardust (USA), 85 mm Ares HVAC, 9
+Stardust (USA), 85 mm Ares MC-AAAC, 9
+Stardust (USA), 90mm Gun T208 (rifled) LTC, 9
+Stardust (USA), EXP-7M, 9
+Stardust (USA), 105 mm Gun M68, 10
+Stardust (USA), 105 mm Gun M68, 10
+Stardust (USA), 105 mm Gun M68A1E4, 10
+Stardust (USA), 105 mm Gun T141, 10
+Stardust (USA), 105 mm Lightweight Gun, 10
+Stardust (USA), 120 mm 2B British Gun, 10
+Stardust (USA), 120 mm AT Gun M58, 10
+Stardust (USA), 120 mm Gun M58, 10
+Stardust (USA), 120 mm Gun M58, 10
+Stardust (USA), 120 mm Gun M58A, 10
+Stardust (USA), 120 mm Gun T123E6, 10
+Stardust (USA), 120 mm Gun T123E6/66, 10
+Stardust (USA), 120 mm Gun T123E6C, 10
+Stardust (USA), 120 mm Gun T124, 10
+Stardust (USA), 120 mm Gun T179, 10
+Stardust (USA), 120 mm Gun T179S, 10
+Stardust (USA), 120 mm MPP Gun RHD, 10
+Stardust (USA), 120 mm T123E2 SPG, 10
+Stardust (USA), 120 mm T124, 10
+Stardust (USA), 152 mm Gun-Launcher XM81 (conventional), 10
+Stardust (USA), 155 mm AT Gun T7E3, 10
+Stardust (USA), 155 mm AT Gun T7E4, 10
+Stardust (USA), 155 mm Gun T7XM, 10
+Stardust (USA), 155 mm Gun T7XM, 10
+Stardust (USA), 165.1 mm M135E1, 10
+Stardust (USA), 240 mm Howitzer M1, 10
+Stardust (USA), 90 mm Ares LC-AAAC, 10
+Stardust (USA), EXP-7, 10
+Stardust (USA), 110 mm EXP-S, 11
+Stardust (USA), 114 mm Gun M73, 11
+Stardust (USA), 120 mm Gun T123E8, 11
+Stardust (USA), 155 mm MPCS SEG, 11
+Stardust (USA), 90 mm Ares 2000, 11
+
+
+===== Schwarz Kreuz (Germany) =====
+nation, name, tier
+Schwarz Kreuz (Germany), 2 cm Breda (i), 1
+Schwarz Kreuz (Germany), 2 cm Breda (i) (LTr), 1
+Schwarz Kreuz (Germany), 2 cm Kw.K. 30, 1
+Schwarz Kreuz (Germany), 2 cm Kw.K. 30, 1
+Schwarz Kreuz (Germany), 2 cm Kw.K. 38, 1
+Schwarz Kreuz (Germany), 2 cm Kw.K. 38, 1
+Schwarz Kreuz (Germany), 2 cm Kw.K. 38 Ausf. F, 1
+Schwarz Kreuz (Germany), 3,7 cm Kw.K. 34 (t) L/40, 1
+Schwarz Kreuz (Germany), 3,7 cm Kw.K. 36 L/46.5f, 1
+Schwarz Kreuz (Germany), 3,7 cm SA 38 L/34, 1
+Schwarz Kreuz (Germany), 2 cm Flak 38, 2
+Schwarz Kreuz (Germany), 2 cm Kw.K. 38 (II G), 2
+Schwarz Kreuz (Germany), 3,7 cm Kw.K. 38 (t) L/47, 2
+Schwarz Kreuz (Germany), 3,7 cm Kw.K. 38 (t) L/47, 2
+Schwarz Kreuz (Germany), 3,7 cm Kw.K. D.T. 4804, 2
+Schwarz Kreuz (Germany), 3,7 cm Pak (t) L/47, 2
+Schwarz Kreuz (Germany), 3.7 cm Kw.K. 38 (t) L/47, 2
+Schwarz Kreuz (Germany), 4,5 cm Kanone, 2
+Schwarz Kreuz (Germany), 4,7 cm Kw.K. (t) L/43, 2
+Schwarz Kreuz (Germany), 4,7 cm Pak (t) L/43, 2
+Schwarz Kreuz (Germany), 4,7 cm SA 35 L/34, 2
+Schwarz Kreuz (Germany), 4.5 cm 20K, 2
+Schwarz Kreuz (Germany), 5 cm Kw.K. 38 L/42 Ausf. E, 2
+Schwarz Kreuz (Germany), 7,92 mm Mauser E.W. 141, 2
+Schwarz Kreuz (Germany), 10,5 cm le.F.H. 16 L/22, 3
+Schwarz Kreuz (Germany), 15 cm s.I.G. 33 L/11, 3
+Schwarz Kreuz (Germany), 2 cm Kw.K. 38 (II L), 3
+Schwarz Kreuz (Germany), 3 cm M.K. 103 (II G), 3
+Schwarz Kreuz (Germany), 4 cm Kw.K. 37M, 3
+Schwarz Kreuz (Germany), 40 mm 37/42 M. L/45, 3
+Schwarz Kreuz (Germany), 5 cm Kw.K. 38 L/42, 3
+Schwarz Kreuz (Germany), 5 cm Kw.K. 38 L/42 Ausf. F, 3
+Schwarz Kreuz (Germany), 5 cm Kw.K. 38 L/42 Ausf. J, 3
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 36 L/21, 3
+Schwarz Kreuz (Germany), 7,5 cm Stu.K. 40 L/43 (B), 3
+Schwarz Kreuz (Germany), 10,5 cm Stu.H. 42 L/28 (B), 4
+Schwarz Kreuz (Germany), 10,5 cm le.F.H. 18 L/28, 4
+Schwarz Kreuz (Germany), 15 cm s.I.G. 33 L/11 (Grille), 4
+Schwarz Kreuz (Germany), 3 cm M.K. 103 (1602), 4
+Schwarz Kreuz (Germany), 3 cm M.K. 103 (II L), 4
+Schwarz Kreuz (Germany), 5 cm Kw.K. 39 L/60, 4
+Schwarz Kreuz (Germany), 5 cm Kw.K. 39 L/60 (II L), 4
+Schwarz Kreuz (Germany), 5 cm Kw.K. 39 L/60 Ausf. L, 4
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 37 L/24, 4
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 37 L/24, 4
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 Ausf. H, 4
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 L/43, 4
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 L/43, 4
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 L/43, 4
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 T 3001, 4
+Schwarz Kreuz (Germany), 7,5 cm Pak 39 L/48 (B), 4
+Schwarz Kreuz (Germany), 7,5 cm Pak 39 L/48 (G), 4
+Schwarz Kreuz (Germany), 7,5 cm Stu.K. 40 L/43, 4
+Schwarz Kreuz (Germany), 7,62 cm Pak 36 (r), 4
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/28, 5
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/28 Ausf. H, 5
+Schwarz Kreuz (Germany), 10,5 cm Stu.H. 42 L/28, 5
+Schwarz Kreuz (Germany), 114 mm:n Panssarivaunu Haupitsi 18, 5
+Schwarz Kreuz (Germany), 15 cm s.F.H. 13 L/17, 5
+Schwarz Kreuz (Germany), 15 cm s.F.H. 13 L/17 (Grille), 5
+Schwarz Kreuz (Germany), 5 cm Kw.K. 39 L/60 (1602), 5
+Schwarz Kreuz (Germany), 5 cm Kw.K. 39 L/60 (2801), 5
+Schwarz Kreuz (Germany), 5 cm Kw.K. 39 L/60L1, 5
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 L/48, 5
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 L/48, 5
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 L/48, 5
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 L/48 (3002M), 5
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 L/48 (K), 5
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. L/40, 5
+Schwarz Kreuz (Germany), 7,5 cm Pak 39 L/48, 5
+Schwarz Kreuz (Germany), 7,5 cm Pak 40/2 L/46, 5
+Schwarz Kreuz (Germany), 7,5 cm Pak 40/3 L/46, 5
+Schwarz Kreuz (Germany), 7,5 cm Pak 42 L/70 (G), 5
+Schwarz Kreuz (Germany), 7,5 cm Pak 42 L/70 (IV), 5
+Schwarz Kreuz (Germany), 7,5 cm Stu.K. 40 L/48, 5
+Schwarz Kreuz (Germany), 7,5 cm StuK 40 L/48 (F), 5
+Schwarz Kreuz (Germany), 7,5 cm Škoda A18, 5
+Schwarz Kreuz (Germany), 7,5/5,5 cm Waffe 0725, 5
+Schwarz Kreuz (Germany), 7,5/5,5 cm Waffe 0725 Ausf. A, 5
+Schwarz Kreuz (Germany), 7.5 cm Kw.K. 40 L/48 SchF, 5
+Schwarz Kreuz (Germany), 75 mm 43 M. L/43, 5
+Schwarz Kreuz (Germany), 8,8 cm Pak L/56 (164), 5
+Schwarz Kreuz (Germany), 10,5 cm Kanone 18, 6
+Schwarz Kreuz (Germany), 15 cm s.F.H. 18 L/29.5, 6
+Schwarz Kreuz (Germany), 15 cm s.F.H. 18 L/29.5 (Hummel), 6
+Schwarz Kreuz (Germany), 7,5 cm Flak L/60, 6
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 40 L/48 (2801), 6
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 42 L/70, 6
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 42 L/70, 6
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 42 L/70 (3002D), 6
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 42 L/70 (3002M), 6
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 42 L/70 Ausf. A, 6
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 44/1 L/70, 6
+Schwarz Kreuz (Germany), 7,5 cm Pak 42 L/70, 6
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 36 L/56 (3601), 6
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 36 L/56 Ausf. E, 6
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 36 L/56 Typ 100, 6
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 36 L/56 Typ 101, 6
+Schwarz Kreuz (Germany), 8,8 cm Pak 43 L/71 (164), 6
+Schwarz Kreuz (Germany), 8,8 cm Pak 43 L/71 (JP), 6
+Schwarz Kreuz (Germany), 8,8 cm Pak L/56 (IV), 6
+Schwarz Kreuz (Germany), 90 mm D921 F1, 6
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/52, 7
+Schwarz Kreuz (Germany), 10,5 cm Pak L/52 (JP), 7
+Schwarz Kreuz (Germany), 12,8 cm Kanone 40, 7
+Schwarz Kreuz (Germany), 12,8 cm Kanone 44 L/55 (Rhm), 7
+Schwarz Kreuz (Germany), 15 cm s.F.H. 43, 7
+Schwarz Kreuz (Germany), 17 cm Kanone 72 (GW P), 7
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 42 L/70 (II), 7
+Schwarz Kreuz (Germany), 7,5 cm Kw.K. 42 L/70 Ausf. G, 7
+Schwarz Kreuz (Germany), 7,5/5,5 cm Waffe SP, 7
+Schwarz Kreuz (Germany), 8,8 cm Flak 37 L/56, 7
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 36 L/56, 7
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 36 L/56, 7
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 43 L/71, 7
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 43 L/71, 7
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 43 L/71 (180A), 7
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 43 L/71 Typ 101, 7
+Schwarz Kreuz (Germany), 8,8 cm Pak 43 L/71 (F), 7
+Schwarz Kreuz (Germany), 8,8 cm Panzerkanone Muster 55 mit Zusatzkammern, 7
+Schwarz Kreuz (Germany), 8.8 cm Kw.K. 43 L/71 (I), 7
+Schwarz Kreuz (Germany), 8.8 cm Kw.K. 43 L/71 Ausf. E, 7
+Schwarz Kreuz (Germany), 90 mm Mecar, 7
+Schwarz Kreuz (Germany), 90 mm Mecar N, 7
+Schwarz Kreuz (Germany), 90/76 mm US-Kanone M 32, 7
+Schwarz Kreuz (Germany), 10,5 cm Bordkanone L7W, 8
+Schwarz Kreuz (Germany), 10,5 cm Hochdruck-Panzerkanone Muster 56 mit Zusatzkammern, 8
+Schwarz Kreuz (Germany), 10,5 cm Kanone 18, 8
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/52 (180A), 8
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/68, 8
+Schwarz Kreuz (Germany), 10,5 cm Pak L/52, 8
+Schwarz Kreuz (Germany), 10,5 cm Panzerkanone Muster 55 mit Zusatzkammern, 8
+Schwarz Kreuz (Germany), 10.5 cm Kw.K. L/68 Ausf. B, 8
+Schwarz Kreuz (Germany), 10.5 cm Kw.K. L/68 Ausf. B, 8
+Schwarz Kreuz (Germany), 10.5 cm Kw.K. L/68 Ausf. E, 8
+Schwarz Kreuz (Germany), 11 cm Mittelgeschw.-Kanone, 8
+Schwarz Kreuz (Germany), 12 cm Kan L/60, 8
+Schwarz Kreuz (Germany), 12,8 cm Kanone 44 L/55, 8
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. L/50, 8
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. L/50 (100), 8
+Schwarz Kreuz (Germany), 12,8 cm Pak 44 L/55 (F), 8
+Schwarz Kreuz (Germany), 12,8 cm Pak 44 L/55 (F), 8
+Schwarz Kreuz (Germany), 12,8 cm Pak 44 L/55 (JT), 8
+Schwarz Kreuz (Germany), 15 cm Pak L/29.5, 8
+Schwarz Kreuz (Germany), 17 cm Kanone 72, 8
+Schwarz Kreuz (Germany), 21 cm Mörser 18/1 (GW P), 8
+Schwarz Kreuz (Germany), 8,8 cm Flak 41 L/74, 8
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 43 L/71, 8
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 43 L/71 (50), 8
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 43 L/71 (II), 8
+Schwarz Kreuz (Germany), 8,8 cm Kw.K. 43 L/71 (K), 8
+Schwarz Kreuz (Germany), 8,8 cm Pak 43 L/71, 8
+Schwarz Kreuz (Germany), 8,8 cm Pak 43 L/71, 8
+Schwarz Kreuz (Germany), 8,8 cm Pak 43 L/71A, 8
+Schwarz Kreuz (Germany), 8,8 cm Zwillingskanone L/71, 8
+Schwarz Kreuz (Germany), 8.8 cm Kw.K. 43 L/71 mod.Vlt, 8
+Schwarz Kreuz (Germany), 9 cm Kanone, 8
+Schwarz Kreuz (Germany), 9 cm Kanone, 8
+Schwarz Kreuz (Germany), 9 cm Kanone (I-P), 8
+Schwarz Kreuz (Germany), 9 cm Kanone M41, 8
+Schwarz Kreuz (Germany), 9 cm Kanone RhD, 8
+Schwarz Kreuz (Germany), 90 mm Rh 69-1, 8
+Schwarz Kreuz (Germany), 90 mm Rheinmetall DM1, 8
+Schwarz Kreuz (Germany), 90 mm Rheinmetall DM1M, 8
+Schwarz Kreuz (Germany), 10,5 cm Hochdruck-Panzerkanone Muster 57 mit Zusatzkammern, 9
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/52 Ausf. B, 9
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/52 Ausf. B, 9
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/70, 9
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/73, 9
+Schwarz Kreuz (Germany), 10,5 cm L7A1, 9
+Schwarz Kreuz (Germany), 100 mm Panzerkanone D-10T2S L/56, 9
+Schwarz Kreuz (Germany), 12 cm Panzerkanone Rh2B, 9
+Schwarz Kreuz (Germany), 12,8 cm Kanone 43 L/55, 9
+Schwarz Kreuz (Germany), 12,8 cm Kanone L/61, 9
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. 44 L/55 (170), 9
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. 44 L/55 (180B), 9
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. L/50 A, 9
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. L/50 Ausf. A, 9
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. L/61K, 9
+Schwarz Kreuz (Germany), 12,8 cm Pak 44/1 L/55, 9
+Schwarz Kreuz (Germany), 12,8 cm Pak L/66, 9
+Schwarz Kreuz (Germany), 12,8 cm Pak L/66, 9
+Schwarz Kreuz (Germany), 12.8 cm Kw.K. 44 L/55 Ausf. B, 9
+Schwarz Kreuz (Germany), 120 mm RhD, 9
+Schwarz Kreuz (Germany), 15 cm Pak L/38, 9
+Schwarz Kreuz (Germany), 15 cm Pak L/44, 9
+Schwarz Kreuz (Germany), 21 cm Mörser 18/1, 9
+Schwarz Kreuz (Germany), 90 mm Rheinmetall DM1, 9
+Schwarz Kreuz (Germany), 10,5 cm Bordkanone L7, 10
+Schwarz Kreuz (Germany), 10,5 cm Bordkanone L7A3, 10
+Schwarz Kreuz (Germany), 10,5 cm Kw.K. L/52 Ausf. K, 10
+Schwarz Kreuz (Germany), 10,5 cm L7A1 Kurz, 10
+Schwarz Kreuz (Germany), 10,5 cm Panzerkanone L7A3, 10
+Schwarz Kreuz (Germany), 10,5 cm RH GUN, 10
+Schwarz Kreuz (Germany), 10,5 cm Rheinmetall V1, 10
+Schwarz Kreuz (Germany), 105 mm Kanone, 10
+Schwarz Kreuz (Germany), 105 mm Kanone L7 VM 68, 10
+Schwarz Kreuz (Germany), 11 cm Hochdruck-Panzerkanone Muster 67 mit Zusatzkammern, Mündungsgeschwindigkeitsmessbasis und Zünderstellgerät, 10
+Schwarz Kreuz (Germany), 12,8 cm Kanone L/61, 10
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. 44 L/55, 10
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. L/55 TM, 10
+Schwarz Kreuz (Germany), 12,8 cm Kw.K. L/61, 10
+Schwarz Kreuz (Germany), 12,8 cm Pak 44 L/55, 10
+Schwarz Kreuz (Germany), 12.8 cm Kw.K. 44 L/55 Ausf. E, 10
+Schwarz Kreuz (Germany), 120 mm Delta 1965, 10
+Schwarz Kreuz (Germany), 120 mm L65 Versuchskanone, 10
+Schwarz Kreuz (Germany), 15 cm Kw.K. L/38, 10
+Schwarz Kreuz (Germany), 15 cm Kw.K. L/38, 10
+Schwarz Kreuz (Germany), 15 cm Pak L/63, 10
+Schwarz Kreuz (Germany), 15 cm TbtsK C/36, 10
+Schwarz Kreuz (Germany), 17 cm Pak, 10
+Schwarz Kreuz (Germany), 21 cm Mörser 21, 10
+Schwarz Kreuz (Germany), 105 mm Rh 105-20, 11
+Schwarz Kreuz (Germany), 12 cm Rheinmetall Geweih, 11
+Schwarz Kreuz (Germany), 12 cm Rheinmetall L/44, 11
+Schwarz Kreuz (Germany), 120 mm Glattrohr-Panzerkanone Muster 70 mit Zusatzkammern, Mündungsgeschwindigkeitsmessbasis und Zünderstellgerät, 11
+Schwarz Kreuz (Germany), 13,2 cm Kw.K. L/66, 11
+
+
+===== Oktyabrskiy (USSR) =====
+nation, name, tier
+Oktyabrskiy (USSR), 20 mm TNSh (T-60), 1
+Oktyabrskiy (USSR), 37 mm B-3, 1
+Oktyabrskiy (USSR), 37 mm B-3 (BT-2), 1
+Oktyabrskiy (USSR), 37 mm Hotchkiss, 1
+Oktyabrskiy (USSR), 45 mm mod. 1932, 1
+Oktyabrskiy (USSR), 37 mm M5, 2
+Oktyabrskiy (USSR), 37 mm ZiS-19 (T-60), 2
+Oktyabrskiy (USSR), 45 mm 20K, 2
+Oktyabrskiy (USSR), 45 mm 20K (BT-2), 2
+Oktyabrskiy (USSR), 45 mm 20K (BT-5), 2
+Oktyabrskiy (USSR), 45 mm 20K (T-70), 2
+Oktyabrskiy (USSR), 45 mm 20KL, 2
+Oktyabrskiy (USSR), 45 mm 20KS, 2
+Oktyabrskiy (USSR), 76 mm Gun mod. 1902/30 30 clb, 2
+Oktyabrskiy (USSR), 76 mm KT-28, 2
+Oktyabrskiy (USSR), 76 mm Regimental Gun mod. 1927, 2
+Oktyabrskiy (USSR), 37 mm ZiS-19, 3
+Oktyabrskiy (USSR), 37 mm automatic OKB-2, 3
+Oktyabrskiy (USSR), 45 mm 20K (BT-7), 3
+Oktyabrskiy (USSR), 45 mm 21-KMT, 3
+Oktyabrskiy (USSR), 45 mm VT-42 (T-70), 3
+Oktyabrskiy (USSR), 57 mm ZiS-2 (SU-76), 3
+Oktyabrskiy (USSR), 76 mm Gun mod. 1902/30 40 clb, 3
+Oktyabrskiy (USSR), 76 mm L-10, 3
+Oktyabrskiy (USSR), 76 mm L-10 (T-28), 3
+Oktyabrskiy (USSR), 76 mm L-10A, 3
+Oktyabrskiy (USSR), 76 mm L-10S, 3
+Oktyabrskiy (USSR), 76 mm L-10U, 3
+Oktyabrskiy (USSR), 122 mm Howitzer M-30, 4
+Oktyabrskiy (USSR), 122 mm Howitzer mod. 1910/1930, 4
+Oktyabrskiy (USSR), 37 mm ZiS-19 (BT-7), 4
+Oktyabrskiy (USSR), 45 mm 20K (A-20), 4
+Oktyabrskiy (USSR), 45 mm 20KM, 4
+Oktyabrskiy (USSR), 45 mm VT-42, 4
+Oktyabrskiy (USSR), 45 mm VT-43, 4
+Oktyabrskiy (USSR), 57 mm ZiS-4 (T-28), 4
+Oktyabrskiy (USSR), 57 mm ZiS-8S, 4
+Oktyabrskiy (USSR), 76 mm F-32, 4
+Oktyabrskiy (USSR), 76 mm F-34 (T-34), 4
+Oktyabrskiy (USSR), 76 mm KT-IT, 4
+Oktyabrskiy (USSR), 76 mm L-11, 4
+Oktyabrskiy (USSR), 76 mm S-1, 4
+Oktyabrskiy (USSR), 76 mm ZiS-3 (SU-76), 4
+Oktyabrskiy (USSR), 76 mm ZiS-5 (KV-1), 4
+Oktyabrskiy (USSR), 85 mm D-5S, 4
+Oktyabrskiy (USSR), QF 2-pdr Mk. IX-A, 4
+Oktyabrskiy (USSR), QF 6-pdr Mk. V, 4
+Oktyabrskiy (USSR), 100 mm D-10S, 5
+Oktyabrskiy (USSR), 107 mm ZiS-6 (KV-2), 5
+Oktyabrskiy (USSR), 122 mm Howitzer A-19, 5
+Oktyabrskiy (USSR), 122 mm Howitzer M-30 mod. 1938, 5
+Oktyabrskiy (USSR), 122 mm U-11, 5
+Oktyabrskiy (USSR), 122 mm U-11 (KV-1), 5
+Oktyabrskiy (USSR), 152 mm Howitzer D-1, 5
+Oktyabrskiy (USSR), 152 mm Mortar NM mod. 1931, 5
+Oktyabrskiy (USSR), 37 mm Automatic SH-37, 5
+Oktyabrskiy (USSR), 45 mm VT-42 (A-20), 5
+Oktyabrskiy (USSR), 45 mm VT-43M, 5
+Oktyabrskiy (USSR), 57 mm ZiS-4 (T-34), 5
+Oktyabrskiy (USSR), 57 mm ZiS-4M, 5
+Oktyabrskiy (USSR), 76 mm F-34, 5
+Oktyabrskiy (USSR), 76 mm F-34 (1943), 5
+Oktyabrskiy (USSR), 76 mm F-96, 5
+Oktyabrskiy (USSR), 76 mm L-11 T, 5
+Oktyabrskiy (USSR), 76 mm S-54, 5
+Oktyabrskiy (USSR), 76 mm S-54 (T-34), 5
+Oktyabrskiy (USSR), 76 mm ZiS-3, 5
+Oktyabrskiy (USSR), 76 mm ZiS-5, 5
+Oktyabrskiy (USSR), 76 mm ZiS-5, 5
+Oktyabrskiy (USSR), 76 mm ZiS-5 (KV-1S), 5
+Oktyabrskiy (USSR), 76 mm ZiS-5A, 5
+Oktyabrskiy (USSR), 85 mm D-5S-85BM, 5
+Oktyabrskiy (USSR), 85 mm F-30 (KV-1), 5
+Oktyabrskiy (USSR), 85 mm S-31, 5
+Oktyabrskiy (USSR), 85 mm ZiS-S-53 (T-34-85), 5
+Oktyabrskiy (USSR), 100 mm D-10S mod. 1944 (SU-100M1), 6
+Oktyabrskiy (USSR), 107 mm ZiS-6 (KV-3), 6
+Oktyabrskiy (USSR), 107 mm ZiS-6 (T-150), 6
+Oktyabrskiy (USSR), 122 mm A-19 mod. 1937, 6
+Oktyabrskiy (USSR), 122 mm D-2-5S, 6
+Oktyabrskiy (USSR), 122 mm Howitzer S-41, 6
+Oktyabrskiy (USSR), 152 mm BR-2 (S-51), 6
+Oktyabrskiy (USSR), 152 mm Howitzer ML-20 mod. 1931, 6
+Oktyabrskiy (USSR), 152 mm Howitzer ML-20 mod. 1931 (SU-8), 6
+Oktyabrskiy (USSR), 152 mm M-10, 6
+Oktyabrskiy (USSR), 152 mm M-10, 6
+Oktyabrskiy (USSR), 57 mm ZiS-2, 6
+Oktyabrskiy (USSR), 57 mm ZiS-4, 6
+Oktyabrskiy (USSR), 57 mm ZiS-4-44, 6
+Oktyabrskiy (USSR), 57 mm ZiS-4T, 6
+Oktyabrskiy (USSR), 76 mm M1A2 gun, 6
+Oktyabrskiy (USSR), 76 mm S-54M, 6
+Oktyabrskiy (USSR), 85 mm D-5S-85A, 6
+Oktyabrskiy (USSR), 85 mm D-5S-85A, 6
+Oktyabrskiy (USSR), 85 mm D-5T, 6
+Oktyabrskiy (USSR), 85 mm D-5T (IS), 6
+Oktyabrskiy (USSR), 85 mm D-5T-85BM (T-34-85), 6
+Oktyabrskiy (USSR), 85 mm F-30, 6
+Oktyabrskiy (USSR), 85 mm LB-2S, 6
+Oktyabrskiy (USSR), 85 mm S-31M, 6
+Oktyabrskiy (USSR), 85 mm S-31MA, 6
+Oktyabrskiy (USSR), 85 mm ZiS-S-53, 6
+Oktyabrskiy (USSR), 85 mm ZiS-S-53, 6
+Oktyabrskiy (USSR), 85 mm ZiS-S-53 (T-43), 6
+Oktyabrskiy (USSR), 85 mm ZiS-S-53M, 6
+Oktyabrskiy (USSR), 100 mm D-10S mod. 1944, 7
+Oktyabrskiy (USSR), 100 mm D-10T, 7
+Oktyabrskiy (USSR), 100 mm D-10T (IS), 7
+Oktyabrskiy (USSR), 100 mm D10T-K, 7
+Oktyabrskiy (USSR), 100 mm LB-1, 7
+Oktyabrskiy (USSR), 100 mm LB-1S, 7
+Oktyabrskiy (USSR), 100 mm S-34, 7
+Oktyabrskiy (USSR), 100 mm S-34I, 7
+Oktyabrskiy (USSR), 107 mm ZiS-6, 7
+Oktyabrskiy (USSR), 107 mm ZiS-6 (KV-4), 7
+Oktyabrskiy (USSR), 107 mm ZiS-6M, 7
+Oktyabrskiy (USSR), 122 mm D-2-5T, 7
+Oktyabrskiy (USSR), 122 mm D-25S mod. 1944, 7
+Oktyabrskiy (USSR), 122 mm D-25T (IS), 7
+Oktyabrskiy (USSR), 122 mm D-25T (IS-3), 7
+Oktyabrskiy (USSR), 122 mm D-25T (IS-M), 7
+Oktyabrskiy (USSR), 122 mm D-25T (KV-3), 7
+Oktyabrskiy (USSR), 152 mm BR-2, 7
+Oktyabrskiy (USSR), 152 mm BR-2 (SU-14), 7
+Oktyabrskiy (USSR), 152 mm ML-20 mod. 1931/37, 7
+Oktyabrskiy (USSR), 152 mm ML-20S, 7
+Oktyabrskiy (USSR), 203 mm B-4 (S-51), 7
+Oktyabrskiy (USSR), 85 mm D-5T-85BM, 7
+Oktyabrskiy (USSR), 85 mm D-5T-85BM (T-43), 7
+Oktyabrskiy (USSR), 85 mm D-5T-85BMU, 7
+Oktyabrskiy (USSR), 85 mm D-5T-85BMU (LTG), 7
+Oktyabrskiy (USSR), 85 mm D-5TD, 7
+Oktyabrskiy (USSR), 85 mm D5T-85BM, 7
+Oktyabrskiy (USSR), 85 mm ZiS-S-53, 7
+Oktyabrskiy (USSR), 100 mm D-10T mod. 1945, 8
+Oktyabrskiy (USSR), 100 mm D-10TM, 8
+Oktyabrskiy (USSR), 100 mm D-33, 8
+Oktyabrskiy (USSR), 100 mm LB-1, 8
+Oktyabrskiy (USSR), 100 mm LB-1, 8
+Oktyabrskiy (USSR), 100 mm M-63, 8
+Oktyabrskiy (USSR), 100 mm M-63 (416), 8
+Oktyabrskiy (USSR), 100 mm S-34D, 8
+Oktyabrskiy (USSR), 100 mm S-34D (IS-2-II), 8
+Oktyabrskiy (USSR), 100 mm T-12 (a), 8
+Oktyabrskiy (USSR), 107 mm ZiS-24, 8
+Oktyabrskiy (USSR), 107 mm ZiS-6U, 8
+Oktyabrskiy (USSR), 122 mm BL-13-1 (705), 8
+Oktyabrskiy (USSR), 122 mm BL-9, 8
+Oktyabrskiy (USSR), 122 mm BL-9 (257), 8
+Oktyabrskiy (USSR), 122 mm BL-9 (IS-3), 8
+Oktyabrskiy (USSR), 122 mm D-25-44T, 8
+Oktyabrskiy (USSR), 122 mm D-25BM, 8
+Oktyabrskiy (USSR), 122 mm D-25E-A2, 8
+Oktyabrskiy (USSR), 122 mm D-25S, 8
+Oktyabrskiy (USSR), 122 mm D-25S mod. 1944, 8
+Oktyabrskiy (USSR), 122 mm D-25T, 8
+Oktyabrskiy (USSR), 122 mm D-25T, 8
+Oktyabrskiy (USSR), 122 mm D-25T, 8
+Oktyabrskiy (USSR), 122 mm D-25T (KV-4), 8
+Oktyabrskiy (USSR), 122 mm D-25T (T-10), 8
+Oktyabrskiy (USSR), 122 mm D-25T-N, 8
+Oktyabrskiy (USSR), 122 mm D-25TA, 8
+Oktyabrskiy (USSR), 122 mm D-25TA-2, 8
+Oktyabrskiy (USSR), 122 mm D-25TB, 8
+Oktyabrskiy (USSR), 122 mm D-25TS, 8
+Oktyabrskiy (USSR), 122 mm D-30, 8
+Oktyabrskiy (USSR), 122 mm M62-S2, 8
+Oktyabrskiy (USSR), 122 mm M62-S2 (SU-101), 8
+Oktyabrskiy (USSR), 130 mm B-13-S2, 8
+Oktyabrskiy (USSR), 130 mm M-65B, 8
+Oktyabrskiy (USSR), 130 mm S-26, 8
+Oktyabrskiy (USSR), 152 mm BR-2 (212A), 8
+Oktyabrskiy (USSR), 152 mm D-4S, 8
+Oktyabrskiy (USSR), 152 mm D-4S (704), 8
+Oktyabrskiy (USSR), 203 mm B-4 (SU-14), 8
+Oktyabrskiy (USSR), 85 mm D-10-85, 8
+Oktyabrskiy (USSR), 85 mm D-58, 8
+Oktyabrskiy (USSR), 85 mm N-3-457, 8
+Oktyabrskiy (USSR), 100 mm D-10T2S, 9
+Oktyabrskiy (USSR), 100 mm D-10T2S, 9
+Oktyabrskiy (USSR), 100 mm D-10TM mod. 1945, 9
+Oktyabrskiy (USSR), 100 mm D-46TK, 9
+Oktyabrskiy (USSR), 100 mm D-46TP, 9
+Oktyabrskiy (USSR), 100 mm D-54TA, 9
+Oktyabrskiy (USSR), 100 mm D-54U, 9
+Oktyabrskiy (USSR), 107 mm 9S1, 9
+Oktyabrskiy (USSR), 107 mm LP-21, 9
+Oktyabrskiy (USSR), 107 mm LP-21A, 9
+Oktyabrskiy (USSR), 107 mm M-75, 9
+Oktyabrskiy (USSR), 107 mm M-75K, 9
+Oktyabrskiy (USSR), 122 mm BL-13, 9
+Oktyabrskiy (USSR), 122 mm BL-13-1 (257), 9
+Oktyabrskiy (USSR), 122 mm BL-13S, 9
+Oktyabrskiy (USSR), 122 mm BL-9D, 9
+Oktyabrskiy (USSR), 122 mm D-25TSU, 9
+Oktyabrskiy (USSR), 122 mm M-62VA, 9
+Oktyabrskiy (USSR), 122 mm M62-T2 (ST-I), 9
+Oktyabrskiy (USSR), 122 mm M62-T2 (T-10), 9
+Oktyabrskiy (USSR), 122 mm S-34-49, 9
+Oktyabrskiy (USSR), 122 mm S-34-II, 9
+Oktyabrskiy (USSR), 122 mm S-34-IIM, 9
+Oktyabrskiy (USSR), 130 mm M-65 (1476), 9
+Oktyabrskiy (USSR), 130 mm S-70 (705), 9
+Oktyabrskiy (USSR), 130 mm S-70A, 9
+Oktyabrskiy (USSR), 152 mm BL-10, 9
+Oktyabrskiy (USSR), 203 mm B-4, 9
+Oktyabrskiy (USSR), 203 mm B-4 (212A), 9
+Oktyabrskiy (USSR), 100 mm D-46T, 10
+Oktyabrskiy (USSR), 100 mm D-54TS, 10
+Oktyabrskiy (USSR), 100 mm NT-12, 10
+Oktyabrskiy (USSR), 100 mm T-100, 10
+Oktyabrskiy (USSR), 100 mm U-8TS, 10
+Oktyabrskiy (USSR), 100 mm U-8TS, 10
+Oktyabrskiy (USSR), 100 mm U-8TS (140), 10
+Oktyabrskiy (USSR), 122 mm BL-13-1, 10
+Oktyabrskiy (USSR), 122 mm M-62T2, 10
+Oktyabrskiy (USSR), 122 mm M-62T2, 10
+Oktyabrskiy (USSR), 122 mm M62-T2, 10
+Oktyabrskiy (USSR), 122 mm M62-T2, 10
+Oktyabrskiy (USSR), 122 mm M62-T2A, 10
+Oktyabrskiy (USSR), 122 mm M62-T2D, 10
+Oktyabrskiy (USSR), 122 mm M62-T2U, 10
+Oktyabrskiy (USSR), 122 mm M62-TS2, 10
+Oktyabrskiy (USSR), 130 mm 2A50, 10
+Oktyabrskiy (USSR), 130 mm B-13, 10
+Oktyabrskiy (USSR), 130 mm M-65, 10
+Oktyabrskiy (USSR), 130 mm M-65D, 10
+Oktyabrskiy (USSR), 130 mm M-65K, 10
+Oktyabrskiy (USSR), 130 mm M-65S, 10
+Oktyabrskiy (USSR), 130 mm S-70, 10
+Oktyabrskiy (USSR), 140 mm D-63Sh, 10
+Oktyabrskiy (USSR), 152 mm BL-10A, 10
+Oktyabrskiy (USSR), 152 mm M-51, 10
+Oktyabrskiy (USSR), 152 mm M-53, 10
+Oktyabrskiy (USSR), 152 mm M-53S, 10
+Oktyabrskiy (USSR), 152 mm M-64, 10
+Oktyabrskiy (USSR), 180 mm B-1-P, 10
+Oktyabrskiy (USSR), 125 mm D-181, 11
+Oktyabrskiy (USSR), 136 mm D-79, 11
+
+
+===== White Roses (UK) =====
+nation, name, tier
+White Roses (UK), 13.2 mm Hotchkiss mle. 1930, 1
+White Roses (UK), 13.2 mm Hotchkiss mle. 1930 (FT), 1
+White Roses (UK), 37 mm APX SA18, 1
+White Roses (UK), 37 mm APX SA18 (FT), 1
+White Roses (UK), 37 mm SA38 (FCM), 1
+White Roses (UK), 25 mm AC SA-L mle. 1937, 2
+White Roses (UK), 25 mm Canon Raccourci mle. 1934, 2
+White Roses (UK), 25 mm Canon Raccourci mle. 1934 (FCM), 2
+White Roses (UK), 25 mm Canon Raccourci mle. 1934 A, 2
+White Roses (UK), 25 mm SA35, 2
+White Roses (UK), 25 mm automatique mle. 1936, 2
+White Roses (UK), 37 mm APX SA18A, 2
+White Roses (UK), 37 mm SA38, 2
+White Roses (UK), 37 mm SA38 (38), 2
+White Roses (UK), 47 mm SA34, 2
+White Roses (UK), 47 mm SA35 (S35), 2
+White Roses (UK), 75 mm Blockhaus Schneider, 2
+White Roses (UK), 105 mm court mle. 1935 B, 3
+White Roses (UK), 47 mm SA-L mle. 1937, 3
+White Roses (UK), 47 mm SA35, 3
+White Roses (UK), 47 mm SA35 (38), 3
+White Roses (UK), 47 mm SA35 (40), 3
+White Roses (UK), 47 mm SA35 (B1), 3
+White Roses (UK), 47 mm SA37, 3
+White Roses (UK), 47 mm SA37 (S35), 3
+White Roses (UK), 75 mm APX mle. 1897, 3
+White Roses (UK), 75 mm APX mle. 1938, 3
+White Roses (UK), 105 mm AC court mle. 1934 S, 4
+White Roses (UK), 105 mm D.E.F.A. 4767 modifié, 4
+White Roses (UK), 105 mm court mle. 1934 S, 4
+White Roses (UK), 105 mm court mle. 1934 S (105 AM), 4
+White Roses (UK), 17-pdr AT Gun Mk. II, 4
+White Roses (UK), 47 mm SA37 (B1), 4
+White Roses (UK), 47 mm SA37 amélioré, 4
+White Roses (UK), 6-pdr AT Gun Mk. IV, 4
+White Roses (UK), 7,5 cm Pak 40/2, 4
+White Roses (UK), 75 mm AC SA44, 4
+White Roses (UK), 75 mm SA32, 4
+White Roses (UK), 75 mm SA32 (40), 4
+White Roses (UK), 75 mm SA44 (BDR), 4
+White Roses (UK), 75 mm SA44L, 4
+White Roses (UK), 10,5 cm le.F.H. 18 L/28, 5
+White Roses (UK), 105 mm court mle. 1934, 5
+White Roses (UK), 105 mm obusier mle. 1950, 5
+White Roses (UK), 105 mm obusier mle. 1950 (105 AM), 5
+White Roses (UK), 3-inch AT Gun M7, 5
+White Roses (UK), 47 mm SA37B amélioré, 5
+White Roses (UK), 75 mm SA44, 5
+White Roses (UK), 75 mm SA49 (12 t), 5
+White Roses (UK), 90 mm AC canon DCA 30, 5
+White Roses (UK), 90 mm AC canon DCA 30 (35CA), 5
+White Roses (UK), 90 mm D. 915, 5
+White Roses (UK), 90 mm DCA 30 (ARL), 5
+White Roses (UK), 90 mm DCA 30 (BDR), 5
+White Roses (UK), CN 75 SA 49, 5
+White Roses (UK), Obusier de 155 mm C mle. 1917, 5
+White Roses (UK), 57 mm L/100, 6
+White Roses (UK), 7,5 cm Kw.K. 42 L/70, 6
+White Roses (UK), 75 mm SA49 (13 75), 6
+White Roses (UK), 75 mm SA49 (178B), 6
+White Roses (UK), 75 mm SA49 (EBR), 6
+White Roses (UK), 75 mm SA50 (12 t), 6
+White Roses (UK), 75 mm SA50 mle. 50, 6
+White Roses (UK), 90 mm AC DCA 45, 6
+White Roses (UK), 90 mm AC DCA 45 (V39), 6
+White Roses (UK), 90 mm D. 914, 6
+White Roses (UK), 90 mm DCA 30, 6
+White Roses (UK), 90 mm DCA 45, 6
+White Roses (UK), 90 mm DCA 45 (ARL), 6
+White Roses (UK), Canon de 155 mm de 33 calibres, 6
+White Roses (UK), Canon de 155 mm de 33 calibres (F3 AM), 6
+White Roses (UK), 100 mm AC SA47, 7
+White Roses (UK), 100 mm SA47 (65), 7
+White Roses (UK), 100 mm SA47 (AC 46), 7
+White Roses (UK), 105 mm Canon 13TR, 7
+White Roses (UK), 75 mm SA50, 7
+White Roses (UK), 75 mm SA50L, 7
+White Roses (UK), 90 mm DCA 45, 7
+White Roses (UK), 90 mm DCA 45 (50 100), 7
+White Roses (UK), 90 mm F3, 7
+White Roses (UK), Canon de 75 mm Vo 1000 m/s (EBR), 7
+White Roses (UK), Canon de 75 mm Vo 920 m/s, 7
+White Roses (UK), Obusier de 155 mm mle. 1950, 7
+White Roses (UK), Obusier de 155 mm mle. 1950 (L50), 7
+White Roses (UK), 100 mm SA47, 8
+White Roses (UK), 100 mm SA47, 8
+White Roses (UK), 100 mm SA47 (50 100), 8
+White Roses (UK), 100 mm SA47 (50 120), 8
+White Roses (UK), 100 mm SA47 A, 8
+White Roses (UK), 100 mm SA47-58, 8
+White Roses (UK), 105 mm D. 1504 L/51, 8
+White Roses (UK), 105 mm SK L/70, 8
+White Roses (UK), 120 mm AC SA46, 8
+White Roses (UK), 120 mm D. 1203, 8
+White Roses (UK), 120 mm D. 1203 A, 8
+White Roses (UK), 120 mm D. 1203 A, 8
+White Roses (UK), 120 mm D. 1203 LA, 8
+White Roses (UK), 120 mm SA46 (AC 48), 8
+White Roses (UK), 75 mm CN 75-50, 8
+White Roses (UK), 75 mm SA50 mle. 54, 8
+White Roses (UK), 90 mm AC DCA 45, 8
+White Roses (UK), 90 mm CN 90 F3, 8
+White Roses (UK), 90 mm D. 919, 8
+White Roses (UK), 90 mm D. 921 F1, 8
+White Roses (UK), 90 mm DCA 45A, 8
+White Roses (UK), Canon bitube de 105 mm D. 1507, 8
+White Roses (UK), Canon de 155 mm mle. 1917 G.P.F., 8
+White Roses (UK), Canon de 155 mm mle. 1917 G.P.F. (L51), 8
+White Roses (UK), Canon de 75 mm Vo 1000 m/s, 8
+White Roses (UK), Canon de 90 mm Vo 930 m/s, 8
+White Roses (UK), 100 mm SA47 (BC), 9
+White Roses (UK), 100 mm SA47-75, 9
+White Roses (UK), 105 mm CN-105-F1 (Chevalier), 9
+White Roses (UK), 105 mm CN-105-F1 L/56, 9
+White Roses (UK), 105 mm Canon 76S, 9
+White Roses (UK), 105 mm D. 1090, 9
+White Roses (UK), 110 mm CN 110 F1 (Fantôme), 9
+White Roses (UK), 120 mm DEFA 120 F, 9
+White Roses (UK), 120 mm SA46 (50 120), 9
+White Roses (UK), 120 mm SA46 (Foch), 9
+White Roses (UK), 127 mm/54 Model 1948, 9
+White Roses (UK), 128 mm K. 40 (Terrifiant), 9
+White Roses (UK), 90 mm D. 921, 9
+White Roses (UK), 90 mm F3M, 9
+White Roses (UK), 90 mm T90.22 Mle. F3, 9
+White Roses (UK), Canon 105 mm mle 57 (D.1504), 9
+White Roses (UK), Canon de 155 mm (BC55), 9
+White Roses (UK), Canon de 75 mm Mle. 55-70, 9
+White Roses (UK), 105 mm CN 105, 10
+White Roses (UK), 105 mm D. 1504, 10
+White Roses (UK), 105 mm D. 1504 (EBR), 10
+White Roses (UK), 105 mm D. 1504-4-1, 10
+White Roses (UK), 105 mm mle. 57 (D. 1504), 10
+White Roses (UK), 105 mm mle. F1, 10
+White Roses (UK), 120 mm AC SA46, 10
+White Roses (UK), 120 mm D. 1203 B, 10
+White Roses (UK), 120 mm D. 1203 P, 10
+White Roses (UK), 120 mm SA46, 10
+White Roses (UK), 130 mm/45 Model 1935, 10
+White Roses (UK), 155 mm AC SA58, 10
+White Roses (UK), Canon de 105 mm modèle F1 M, 10
+White Roses (UK), Canon de 120/67 T53 (D), 10
+White Roses (UK), Canon de 155 mm, 10
+White Roses (UK), 118 mm D. 1507AS, 11
+White Roses (UK), 120 mm IPC-1, 11
+White Roses (UK), 120 mm SA46/67, 11
+White Roses (UK), 20 mm wz.38 FK-A, 1
+White Roses (UK), 37 mm Bofors wz. 37 (7TP), 1
+White Roses (UK), 47 mm QFSA, 1
+White Roses (UK), 37 mm Bofors wz. 37, 2
+White Roses (UK), 40 mm Działko czołgowe Dł.55, 2
+White Roses (UK), n.k.m. 20 mm wz. 38 FK-A, 2
+White Roses (UK), 47 mm armata wz. 39, 3
+White Roses (UK), 47 mm kan m/38 strv, 3
+White Roses (UK), 40 mm auto. Boforsa, 4
+White Roses (UK), 40 mm auto. Boforsa II, 4
+White Roses (UK), 75 mm wz. 22/24, 4
+White Roses (UK), 75 mm wz. 36/38, 4
+White Roses (UK), 75 mm wz. 1897, 5
+White Roses (UK), 75 mm wz. 36/37, 5
+White Roses (UK), 75 mm wz. 36/37 (DS), 5
+White Roses (UK), 75 mm wz. 36/37M, 5
+White Roses (UK), 90 mm wz. 39-90, 5
+White Roses (UK), 90 mm wz. 39-90 (40), 5
+White Roses (UK), 100 mm DAP, 6
+White Roses (UK), 100 mm DAP (44), 6
+White Roses (UK), 7,5 cm Kw.K. 42 L/70, 6
+White Roses (UK), 85 mm ZiS-S-53, 6
+White Roses (UK), 90 mm armata wz. 46, 6
+White Roses (UK), 90 mm wz. 39/40, 6
+White Roses (UK), 90 mm wz. 39/40 (40TP), 6
+White Roses (UK), 90 mm wz. 39/40M, 6
+White Roses (UK), 100 mm armata wz. 49, 7
+White Roses (UK), 100 mm armata wz. 53, 7
+White Roses (UK), 105 mm Bofors wz. 34, 7
+White Roses (UK), 105 mm Bofors wz. 34M, 7
+White Roses (UK), 122 mm wz. 59, 7
+White Roses (UK), GG-85/150 mm, 7
+White Roses (UK), 100 mm armata wz. 58, 8
+White Roses (UK), 100 mm armata wz. 62, 8
+White Roses (UK), 100/162 mm Wz.64-1 (Husarz), 8
+White Roses (UK), 105 mm armata wz. 52, 8
+White Roses (UK), 122 mm armata wz. 53/56, 8
+White Roses (UK), 122 mm wz. 53, 8
+White Roses (UK), 122 mm wz. 53 (53TP), 8
+White Roses (UK), 128 mm SK C/34L, 8
+White Roses (UK), GG-100/162 mm, 8
+White Roses (UK), GG-100/162 mm (58), 8
+White Roses (UK), 100 mm armata wz. 62 P., 9
+White Roses (UK), 105 mm armata wz. 59, 9
+White Roses (UK), 122 mm armata wz. 56, 9
+White Roses (UK), 122 mm wz.43/50, 9
+White Roses (UK), 130 mm R 14 wz. 56, 9
+White Roses (UK), 155 mm armata wz. 40-46, 9
+White Roses (UK), GG-100/162 mm K, 9
+White Roses (UK), GG-85/175 mm (60), 9
+White Roses (UK), 105 mm armata wz. 64, 10
+White Roses (UK), 105mm armata wz. 64, 10
+White Roses (UK), 152 mm J 2, 10
+White Roses (UK), 152 mm J 2, 10
+White Roses (UK), GG-85/175 mm, 10
+White Roses (UK), GG-85/175 mm GC, 10
+White Roses (UK), 115 mm armata U-5TS, 11
+White Roses (UK), 15 mm Machine Gun BESA, 1
+White Roses (UK), 40 mm Pom-Pom prototype, 1
+White Roses (UK), Browning MG caliber .50 HB, M2, 1
+White Roses (UK), OQF 3-pdr Gun Mk. I, 1
+White Roses (UK), QF 2-pdr Mk. IX prototype, 1
+White Roses (UK), QF 2-pdr Mk. IX prototype (I), 1
+White Roses (UK), 37 mm Gun M5, 2
+White Roses (UK), 40 mm Pom-Pom (II), 2
+White Roses (UK), OQF 3-pdr Gun Mk. II, 2
+White Roses (UK), Q.F. 13-Pr. Mk. III, 2
+White Roses (UK), QF 2-pdr AT Gun Mk. IX, 2
+White Roses (UK), QF 2-pdr Mk. IX (III), 2
+White Roses (UK), QF 2-pdr Mk. X (Val), 2
+White Roses (UK), QF 6-pdr 8 cwt AT Gun Mk. II, 2
+White Roses (UK), QF 6-pdr 8 cwt Mk. II, 2
+White Roses (UK), 37 mm Gun M6, 3
+White Roses (UK), 40 mm Pom-Pom, 3
+White Roses (UK), Q.F. 18-Pr., 3
+White Roses (UK), QF 2-pdr Mk. IX, 3
+White Roses (UK), QF 2-pdr Mk. IX, 3
+White Roses (UK), QF 2-pdr Mk. IX (IV), 3
+White Roses (UK), QF 2-pdr Mk. X (A12), 3
+White Roses (UK), QF 6-pdr AT Gun Mk. II (VAT), 3
+White Roses (UK), QF 6-pdr Gun Mk. V early, 3
+White Roses (UK), 2-pdr Gun Mk X-B HH, 4
+White Roses (UK), 75 mm AT Gun M3, 4
+White Roses (UK), 75 mm Gun M2, 4
+White Roses (UK), 75 mm Gun M3, 4
+White Roses (UK), Q.F. 25-Pr. Gun/How., 4
+White Roses (UK), Q.F. 25-Pr. Gun/How. (Bishop), 4
+White Roses (UK), Q.F. 25-Pr. Gun/How. Mk. II, 4
+White Roses (UK), QF 2-pdr Mk. X (A13 III), 4
+White Roses (UK), QF 2-pdr Mk. X (A22), 4
+White Roses (UK), QF 2-pdr Mk. X-A, 4
+White Roses (UK), QF 2-pdr Mk. X-B, 4
+White Roses (UK), QF 2-pdr Mk. XA*, 4
+White Roses (UK), QF 40 mm Mk. VI Bofors (IV), 4
+White Roses (UK), QF 6-pdr 8 cwt AT Gun Mk. I, 4
+White Roses (UK), QF 6-pdr 8 cwt Mk. I, 4
+White Roses (UK), QF 6-pdr AT Gun Mk. II, 4
+White Roses (UK), QF 6-pdr AT Gun Mk. III, 4
+White Roses (UK), QF 6-pdr AT Gun Mk. IV, 4
+White Roses (UK), QF 6-pdr AT Gun Mk. IV (VAT), 4
+White Roses (UK), QF 6-pdr Mk. III, 4
+White Roses (UK), QF 6-pdr Mk. III (A24), 4
+White Roses (UK), 105 mm M4, 5
+White Roses (UK), 3.7-inch AT Howitzer, 5
+White Roses (UK), 75 mm Gun Mk. V, 5
+White Roses (UK), 75 mm Gun Mk. V, 5
+White Roses (UK), 75 mm Gun Mk. V (A22F), 5
+White Roses (UK), OQF 17-pdr AT Gun Mk. V, 5
+White Roses (UK), OQF 77 mm AT Gun Mk. II, 5
+White Roses (UK), Q.F. 25-Pr. AT Gun/How. Mk. III, 5
+White Roses (UK), Q.F. 25-Pr. Gun/How. (304), 5
+White Roses (UK), Q.F. 4.5-in. Howitzer (Bishop), 5
+White Roses (UK), QF 2-pdr Mk. X, 5
+White Roses (UK), QF 40 mm Mk. VI Bofors, 5
+White Roses (UK), QF 6-pdr AT Gun Mk. V, 5
+White Roses (UK), QF 6-pdr Gun Mk. V, 5
+White Roses (UK), QF 6-pdr Gun Mk. V (A22), 5
+White Roses (UK), QF 6-pdr Gun Mk. V (A27M), 5
+White Roses (UK), QF 6-pdr Mk. III A, 5
+White Roses (UK), QF 6-pdr Mk. V (A24), 5
+White Roses (UK), QF 6-pdr Mk. V A, 5
+White Roses (UK), QF 6-pdr Mk. V B, 5
+White Roses (UK), QF 6-pdr Mk. VA, 5
+White Roses (UK), QF 6-pdr Mk. VA (AEC), 5
+White Roses (UK), 3-inch 20 cwt AT Gun Mk. III, 6
+White Roses (UK), 75 mm Gun Mk. 5, 6
+White Roses (UK), 75 mm Gun Mk. V, 6
+White Roses (UK), 75 mm Gun Mk. V (A27M), 6
+White Roses (UK), 75 mm Gun Mk. V (A34), 6
+White Roses (UK), 75 mm Gun Mk. V C, 6
+White Roses (UK), 75 mm Gun Mk. V G, 6
+White Roses (UK), 76 mm 'Excalibur' Gun, 6
+White Roses (UK), 76 mm Gun M1A1, 6
+White Roses (UK), 76 mm L5A3 (FSV), 6
+White Roses (UK), OQF 17-pdr AT Gun Mk. II, 6
+White Roses (UK), OQF 17-pdr AT Gun Mk. VII (A30), 6
+White Roses (UK), OQF 17-pdr AT Gun Mk. VII (AT 7), 6
+White Roses (UK), OQF 17-pdr AT Gun Mk. VII (AT 8), 6
+White Roses (UK), OQF 17-pdr AT Gun Mk. VII (IIC), 6
+White Roses (UK), OQF 17-pdr Gun Mk. IV SH-SH, 6
+White Roses (UK), OQF 77 mm Gun Mk. II (A22F), 6
+White Roses (UK), OQF 77 mm Gun Mk. II (A43), 6
+White Roses (UK), OQF 77 mm HV Mk. I, 6
+White Roses (UK), Q.F. 4.5-in. Howitzer, 6
+White Roses (UK), Q.F. 4.5-in. Howitzer (304), 6
+White Roses (UK), QF 6-pdr LT Gun Mk. V, 6
+White Roses (UK), QF 6-pdr Mk. V (A15), 6
+White Roses (UK), Twin 20-pdr Gun MBC, 6
+White Roses (UK), 75 mm HV L40, 7
+White Roses (UK), 75 mm HV L40 (Set), 7
+White Roses (UK), 75 mm M6, 7
+White Roses (UK), 76 mm L5A3, 7
+White Roses (UK), B.L. 5.5-in. Gun (207), 7
+White Roses (UK), B.L. 5.5-in. Gun (CSP), 7
+White Roses (UK), OQF 17-pdr AT Gun Mk. VII, 7
+White Roses (UK), OQF 17-pdr AT Gun Mk. VII, 7
+White Roses (UK), OQF 17-pdr Gun Mk. VII, 7
+White Roses (UK), OQF 17-pdr Gun Mk. VII, 7
+White Roses (UK), OQF 17-pdr Gun Mk. VII (221), 7
+White Roses (UK), OQF 17-pdr Gun Mk. VII (A41), 7
+White Roses (UK), OQF 17-pdr Gun Mk. VII (A43), 7
+White Roses (UK), OQF 17-pdr Gun Mk. VII B, 7
+White Roses (UK), OQF 20-pdr AT Gun Type A Barrel, 7
+White Roses (UK), OQF 20-pdr AT Gun Type A Barrel (AT 7), 7
+White Roses (UK), OQF 20-pdr AT Gun Type B Barrel (4101), 7
+White Roses (UK), OQF 32-pdr AT Gun Mk. II, 7
+White Roses (UK), OQF 77 mm Gun Mk. II, 7
+White Roses (UK), QF 3.7-inch AT Gun, 7
+White Roses (UK), Twin 20-pdr Gun MBC Mk. II, 7
+White Roses (UK), Twin OQF 77 mm Gun Mk. II, 7
+White Roses (UK), 105 mm AT Gun L7, 8
+White Roses (UK), 105 mm AT Gun L7, 8
+White Roses (UK), 105mm HV Gun Mk.II, 8
+White Roses (UK), 120 mm AT Gun L1A1 (4004), 8
+White Roses (UK), 85 mm HV L40, 8
+White Roses (UK), 85 mm HV L40 (LHMTV), 8
+White Roses (UK), 90 mm Gun T208 (rifled), 8
+White Roses (UK), 90 mm Kenerga Mk. 8, 8
+White Roses (UK), 90 mm Kenerga Mk. 8 (601), 8
+White Roses (UK), B.L. 5.5-in. Gun, 8
+White Roses (UK), OQF 20-pdr Gun Type A Barrel, 8
+White Roses (UK), OQF 20-pdr Gun Type B Barrel, 8
+White Roses (UK), OQF 32-pdr AT Gun, 8
+White Roses (UK), OQF 32-pdr AT Gun (A39), 8
+White Roses (UK), OQF 32-pdr AT Gun (AT 15), 8
+White Roses (UK), OQF 32-pdr Gun Mk. II, 8
+White Roses (UK), OQF 32-pdr Gun Mk. II (221), 8
+White Roses (UK), OQF 55-pdr AT Gun, 8
+White Roses (UK), Q.F. 6-in. Gun Mk. V, 8
+White Roses (UK), QF 120 mm Gonsalo, 8
+White Roses (UK), QF 20 pounder, 8
+White Roses (UK), QF 5-in. Gun, 8
+White Roses (UK), QF 6-inch Caliban, 8
+White Roses (UK), Twin 32-pdr Gun MBC, 8
+White Roses (UK), Twin 32-pdr Gun MBC Mk. 2, 8
+White Roses (UK), 105 mm MV Gun, 9
+White Roses (UK), 105 mm Royal Ordnance L7A1, 9
+White Roses (UK), 110 mm MV-N60 Gun, 9
+White Roses (UK), 120 mm AT Gun L1A1, 9
+White Roses (UK), 120 mm Gun L1A1, 9
+White Roses (UK), 120 mm Gun L1A1 (214), 9
+White Roses (UK), 120 mm Low Velocity Gun, 9
+White Roses (UK), 120 mm QF gun, 9
+White Roses (UK), 120 mm Tank Gun L11PA, 9
+White Roses (UK), 128 mm Gun L/50, 9
+White Roses (UK), 5.5-inch AT Gun Mk. II, 9
+White Roses (UK), 90 mm Cockerill, 9
+White Roses (UK), B.L. 5.5-in. Gun, 9
+White Roses (UK), B.L. 7.2-in. Howitzer Mk. 6, 9
+White Roses (UK), OQF 20-pdr Gun Type B Barrel, 9
+White Roses (UK), OQF 55-pdr CG, 9
+White Roses (UK), Twin 105 mm Gun L7 MBC, 9
+White Roses (UK), Twin 105 mm T8 Gun MBC, 9
+White Roses (UK), Twin 110 mm Gun MBC, 9
+White Roses (UK), 105 mm AT Gun L7A1, 10
+White Roses (UK), 105 mm AT Gun L7A1, 10
+White Roses (UK), 105 mm AT Gun L7A1 GSOR, 10
+White Roses (UK), 105 mm Gun L7A2, 10
+White Roses (UK), 105 mm Gun L7A2, 10
+White Roses (UK), 105 mm L7 SFC, 10
+White Roses (UK), 110 mm Medium Velocity Gun, 10
+White Roses (UK), 120 mm Gun L1A1, 10
+White Roses (UK), 120 mm Gun L1A1 A, 10
+White Roses (UK), 120 mm Tank Gun L11, 10
+White Roses (UK), 120 mm Tank Gun L11A1, 10
+White Roses (UK), 120 mm Tank Gun L11B, 10
+White Roses (UK), 183 mm L4, 10
+White Roses (UK), 183 mm L4A1, 10
+White Roses (UK), B.L. 9.2-in. Howitzer Mk. II, 10
+White Roses (UK), OQF 123 mm Mk. 1, 10
+White Roses (UK), QF 105 mm Gun, 10
+White Roses (UK), Twin 120 mm Gun L1 MBC, 10
+White Roses (UK), Twin 120 mm Gun L1 MBC, 10
+White Roses (UK), 110 mm High Velocity Gun, 11
+White Roses (UK), OQF 123 mm Mk. 1B, 11
+White Roses (UK), Twin 4.5-in. Gun MBC, 11
+
+
+===== Far East (Japan) =====
+nation, name, tier
+Far East (Japan), 37 mm APX SA18, 1
+Far East (Japan), 37 mm KwK 36 L/46.5, 1
+Far East (Japan), 47 mm Vickers QF, 1
+Far East (Japan), 37 mm Pak, 2
+Far East (Japan), 40 mm Pom-Pom, 2
+Far East (Japan), 45 mm 20K, 2
+Far East (Japan), 47 mm QFSA, 2
+Far East (Japan), 37 mm M6, 3
+Far East (Japan), 47 mm Gun Type 1, 3
+Far East (Japan), 57 mm ZiS-2 (76G), 3
+Far East (Japan), 47 mm Gun Type 1 (M5), 4
+Far East (Japan), 47 mm Gun Type 1G FT, 4
+Far East (Japan), 76 mm F-34, 4
+Far East (Japan), 85 mm 56-85TG FT, 4
+Far East (Japan), 85 mm 56-85TG FT (60G), 4
+Far East (Japan), 57 mm 55-57FG, 5
+Far East (Japan), 57 mm 55-57FGA, 5
+Far East (Japan), 57 mm ZiS-2, 5
+Far East (Japan), 76 mm ZiS-3, 5
+Far East (Japan), 85 mm 62-85TG FT, 5
+Far East (Japan), 85 mm 62-85TG FT (131G), 5
+Far East (Japan), 85 mm S-53, 5
+Far East (Japan), 100 mm 44-100JT (IS-2), 6
+Far East (Japan), 100 mm 59-100TG FT, 6
+Far East (Japan), 100 mm 59-100TG FT (34-2G), 6
+Far East (Japan), 76 mm 54-76T, 6
+Far East (Japan), 76 mm Gun M1A2, 6
+Far East (Japan), 85 mm 56-85JT, 6
+Far East (Japan), 85 mm 56-85JT (34-1), 6
+Far East (Japan), 85 mm 62-85T, 6
+Far East (Japan), 85 mm Type 58, 6
+Far East (Japan), 100 mm 44-100JT, 7
+Far East (Japan), 100 mm 44-100JT (34-1), 7
+Far East (Japan), 100 mm Type 59M, 7
+Far East (Japan), 122 mm 60-122TG FT, 7
+Far East (Japan), 122 mm D-25T, 7
+Far East (Japan), 122 mm D-25T (110), 7
+Far East (Japan), 122 mm D-25TG FT, 7
+Far East (Japan), 122 mm Type-59-2, 7
+Far East (Japan), 85 mm 64-85T, 7
+Far East (Japan), 85 mm 64-85T (132), 7
+Far East (Japan), 85 mm Type 62, 7
+Far East (Japan), 100 mm 59-100T, 8
+Far East (Japan), 100 mm 59-100T (120), 8
+Far East (Japan), 100 mm 60-100T (132A), 8
+Far East (Japan), 100 mm 60-100TA, 8
+Far East (Japan), 100 mm 60-100TA, 8
+Far East (Japan), 100 mm 62-100T, 8
+Far East (Japan), 100 mm Type 59, 8
+Far East (Japan), 122 mm 371-122JTX, 8
+Far East (Japan), 122 mm D-25T (111 4), 8
+Far East (Japan), 122 mm D-25TA, 8
+Far East (Japan), 122 mm Type-61, 8
+Far East (Japan), 130 mm 59-130JG FT, 8
+Far East (Japan), 130 mm 59-130JG FT (111), 8
+Far East (Japan), 130 mm M-65 Type 70, 8
+Far East (Japan), 160 mm 56-160 BZS, 8
+Far East (Japan), 160 mm 56-160 BZS, 8
+Far East (Japan), 76 mm M32K1, 8
+Far East (Japan), 90 mm Gun M41, 8
+Far East (Japan), 100 mm 62-100TA, 9
+Far East (Japan), 100 mm D-54TA, 9
+Far East (Japan), 105 mm Type 81-I, 9
+Far East (Japan), 120 mm TG, 9
+Far East (Japan), 122 mm 60-122T (120), 9
+Far East (Japan), 122 mm Type 61 DB, 9
+Far East (Japan), 130 mm 59-130T, 9
+Far East (Japan), 130 mm 59-130T, 9
+Far East (Japan), 130 mm M-65 Type 70A, 9
+Far East (Japan), 152 mm 59-152JG FT (111), 9
+Far East (Japan), 57 mm PG70 x2, 9
+Far East (Japan), 84 mm Type 79, 9
+Far East (Japan), 105 mm L7A3C, 10
+Far East (Japan), 105 mm L7C, 10
+Far East (Japan), 105 mm L7C MK, 10
+Far East (Japan), 122 mm 57-I, 10
+Far East (Japan), 122 mm 57-I, 10
+Far East (Japan), 122 mm 60-122T, 10
+Far East (Japan), 122 mm 60-122TG, 10
+Far East (Japan), 122 mm 60-122TG FT A, 10
+Far East (Japan), 122 mm 60-122TP, 10
+Far East (Japan), 130 mm 59-130JG FT A, 10
+Far East (Japan), 130 mm 59-130M, 10
+Far East (Japan), 130 mm 59-130TA, 10
+Far East (Japan), 130 mm 59-130TA QL, 10
+Far East (Japan), 130 mm 62-130T, 10
+Far East (Japan), 130 mm Type-62, 10
+Far East (Japan), 15 cm Pak L/38, 10
+Far East (Japan), 152 mm 59-152JG FT, 10
+Far East (Japan), 152 mm 64-152DV, 10
+Far East (Japan), 152 mm 64-152T, 10
+Far East (Japan), 152 mm 64-152T, 10
+Far East (Japan), 152 mm GM-45, 10
+Far East (Japan), 180 mm ZPL-70/47, 10
+Far East (Japan), 115 mm 69-115T, 11
+Far East (Japan), 152 mm ZPL-75, 11
+Far East (Japan), 152 mm ZPL-75-1, 11
+Far East (Japan), 13 mm Autocannon Type Ho, 1
+Far East (Japan), 13 mm Autocannon Type Ho (NC), 1
+Far East (Japan), 37 mm Gun Type 98 (95), 1
+Far East (Japan), 37 mm Sogekihou, 1
+Far East (Japan), 37 mm Sogekihou (NC), 1
+Far East (Japan), 37 mm Gun Type 98, 2
+Far East (Japan), 5.7 cm Gun Type 90, 2
+Far East (Japan), 5.7 cm Gun Type 97, 2
+Far East (Japan), 5.7 cm Gun Type 97 (95), 2
+Far East (Japan), 5.7 cm Gun Type 97 (Shin), 2
+Far East (Japan), 37 mm Gun Type 1, 3
+Far East (Japan), 37 mm Gun Type 100, 3
+Far East (Japan), 47 mm Gun Type 1 (2), 3
+Far East (Japan), 47 mm Gun Type 1 (Shin), 3
+Far East (Japan), 7 cm Gun Type 94, 3
+Far East (Japan), 47 mm Gun Type 1, 4
+Far East (Japan), 7.5 cm Tank Gun Type 3, 4
+Far East (Japan), 7.5 cm Tank Gun Type 4, 4
+Far East (Japan), 7.5 cm Tank Gun Type 88, 4
+Far East (Japan), 7.5 cm Tank Gun Type 99, 4
+Far East (Japan), Experimental 57 mm Tank Gun Shin, 4
+Far East (Japan), Experimental 57 mm Tank Gun Shin (10), 4
+Far East (Japan), Experimental 57 mm Tank Gun Shin (2), 4
+Far East (Japan), 10 cm Cannon Type 92 (O-I), 5
+Far East (Japan), 10.5 cm Gun Type 91, 5
+Far East (Japan), 10.5 cm Type 14 L/34, 5
+Far East (Japan), 12 cm Short Barrel Gun, 5
+Far East (Japan), 7.5 cm Tank Gun Type 3 Model II, 5
+Far East (Japan), 7.5 cm Tank Gun Type 5, 5
+Far East (Japan), 7.5 cm Tank Gun Type 5, 5
+Far East (Japan), 7.5 cm Tank Gun Type 5 (CT), 5
+Far East (Japan), 7.5 cm Tank Gun Type 5N, 5
+Far East (Japan), 7.5 cm Tank Gun Type 90, 5
+Far East (Japan), 7.5 cm Type 5 Gun Ro, 5
+Far East (Japan), 10 cm Cannon Type 92 (O-Ni), 6
+Far East (Japan), 10 cm Cannon Type 92 SP, 6
+Far East (Japan), 10.5 cm Type 92 Gun Ro, 6
+Far East (Japan), 15 cm Howitzer Type 96 (O-I), 6
+Far East (Japan), 7.5 cm Tank Gun Type 5 Model I, 6
+Far East (Japan), 7.5 cm Tank Gun Type 5 Model I (CR), 6
+Far East (Japan), 8.8 cm Tank Gun Type 3, 6
+Far East (Japan), 88 mm Tank Gun Type 3T, 6
+Far East (Japan), 10 cm Cannon Type 92A, 7
+Far East (Japan), 10 cm Experimental Tank Gun, 7
+Far East (Japan), 10 cm Experimental Tank Gun Kai, 7
+Far East (Japan), 10.5 cm Gun Shin, 7
+Far East (Japan), 105 mm Gun Type 92 SHA-1, 7
+Far East (Japan), 105 mm Tank Gun Type 92T, 7
+Far East (Japan), 7.5 cm Autoloading Tank Gun Type 5, 7
+Far East (Japan), 8,8 cm Kw.K. 36 L/56, 7
+Far East (Japan), 90 mm Rifled Gun, 7
+Far East (Japan), 105 mm M68 L7, 8
+Far East (Japan), 105 mm M68 L7 (57), 8
+Far East (Japan), 105 mm Type 5 Se, 8
+Far East (Japan), 12 cm Gun Type 10, 8
+Far East (Japan), 12.7 cm Gun Type 89, 8
+Far East (Japan), 12.7 cm/50 3rd Year Type, 8
+Far East (Japan), 12.7 cm/50 3rd Year Type (O-Ho), 8
+Far East (Japan), 90 mm Gun Type 61, 8
+Far East (Japan), 90 mm Gun Type 61 MHI, 8
+Far East (Japan), 90 mm Rifled Gun, 8
+Far East (Japan), 105 mm Cannon Type 92, 9
+Far East (Japan), 105 mm JSW 105/60, 9
+Far East (Japan), 105 mm Rifled Gun (61), 9
+Far East (Japan), 12.7 cm Gun Type 89A, 9
+Far East (Japan), 120 mm Gun Type 60, 9
+Far East (Japan), 14 cm/50 3rd Year Type (4), 9
+Far East (Japan), 14.9 cm Gun Type 96, 9
+Far East (Japan), Rensouhou 12.7 cm Type 89, 9
+Far East (Japan), 105 mm Gun Type 52, 10
+Far East (Japan), 105 mm Rifled Gun, 10
+Far East (Japan), 120 mm Gun Type 71, 10
+Far East (Japan), 14.9 cm Gun Type 96 Kai, 10
+Far East (Japan), 15 cm/45 41st Year Type, 10
+Far East (Japan), 137.2 mm TK DK, 11
+Far East (Japan), 15.5 cm Gun Shin, 11
+
+
+===== Universal (N/A) =====
+nation, name, tier
+Universal (N/A), 37 mm Pěchotní dělo Škoda L/27, 1
+Universal (N/A), 37 mm Škoda A3, 1
+Universal (N/A), 47 mm Rychlopalné dělo Vickers L/20, 1
+Universal (N/A), 37 mm Škoda A7, 2
+Universal (N/A), 37 mm Škoda A8, 2
+Universal (N/A), 24 mm Panzerwagen Kanone 1938, 3
+Universal (N/A), 37 mm Škoda A23, 3
+Universal (N/A), 47 mm Škoda A11, 3
+Universal (N/A), 47 mm Škoda A11 vylepšený, 4
+Universal (N/A), 47 mm Škoda A24, 4
+Universal (N/A), 75 mm Škoda A13, 4
+Universal (N/A), 75 mm Škoda A18, 5
+Universal (N/A), 75 mm Škoda A18 (24), 5
+Universal (N/A), 100 mm Škoda R 11 proto, 6
+Universal (N/A), 6,6 cm Pak 5/800, 6
+Universal (N/A), 75 mm Škoda A18 (s automatickým nabíjením), 6
+Universal (N/A), 85 mm vz. 44S, 6
+Universal (N/A), 100 mm vz. 44S, 7
+Universal (N/A), 105 mm vz. 38N, 7
+Universal (N/A), 105 mm vz. 39N (projektové), 7
+Universal (N/A), 30 mm protiletadlový dvojkanón vz. 53, 7
+Universal (N/A), 75 mm Škoda A26, 7
+Universal (N/A), 8,8 cm vz. 37N, 7
+Universal (N/A), 8,8 cm vz. 37N, 7
+Universal (N/A), 88 mm Škoda vz.36 N, 7
+Universal (N/A), 100 mm A20, 8
+Universal (N/A), 105 mm vz. 38N (a), 8
+Universal (N/A), 105 mm vz. 40N, 8
+Universal (N/A), 105 mm vz. 40N (1000), 8
+Universal (N/A), 122 mm D-25TK, 8
+Universal (N/A), 37 mm automatický dvojkanón, 8
+Universal (N/A), 50 mm protiletadlový dvojkanón ZK 500, 8
+Universal (N/A), 8,8 cm vz. 41N, 8
+Universal (N/A), 8,8 cm vz. 41N A, 8
+Universal (N/A), 100 mm AK1, 9
+Universal (N/A), 100 mm S-3, 9
+Universal (N/A), 105 mm dvojkanón vz. 40N, 9
+Universal (N/A), 107 mm vz. 63, 9
+Universal (N/A), 122 mm vz. 44-51, 9
+Universal (N/A), 122 mm vz. 44-51 2A, 9
+Universal (N/A), 130 mm 59-130M, 9
+Universal (N/A), 130 mm vz.57, 9
+Universal (N/A), 50 mm protiletadlový dvojkanón ZK 500S, 9
+Universal (N/A), 57 mm automatický dvojkanón 535Š, 9
+Universal (N/A), 100 mm AK1 (50/51), 10
+Universal (N/A), 100 mm BS-3, 10
+Universal (N/A), 122 mm vz. 122 L/52, 10
+Universal (N/A), 122 mm vz. 44-60, 10
+Universal (N/A), 130 mm vz. 54, 10
+Universal (N/A), 130 mm vz. 54 2 GW, 10
+Universal (N/A), 130 mm vz. 54 2A, 10
+Universal (N/A), 130 mm Škoda R 14, 10
+Universal (N/A), 152 mm D-20SM, 10
+Universal (N/A), 57 mm automatický dvojkanón 535T, 10
+Universal (N/A), 130 mm vz. 63 s ANZ, 11
+Universal (N/A), Cannone da 37/20, 1
+Universal (N/A), Cannone da 37/40, 1
+Universal (N/A), Cannone da 37/40 (3000), 1
+Universal (N/A), Cannone da 37/40 (M14), 1
+Universal (N/A), Cannone da 47/32, 2
+Universal (N/A), Cannone da 47/32 (M14), 2
+Universal (N/A), Mitragliera Breda cal. 20 mod. 35, 2
+Universal (N/A), Cannone da 47/40, 3
+Universal (N/A), Cannone da 47/40 bis, 3
+Universal (N/A), Cannone da 75/32, 3
+Universal (N/A), Cannone da 75/18, 4
+Universal (N/A), Cannone da 75/34, 4
+Universal (N/A), Cannone da 75/46, 4
+Universal (N/A), Cannone da 75/34 S., 5
+Universal (N/A), Cannone da 75/50 Skoda, 5
+Universal (N/A), Cannone da 75/50 Skoda (P43), 5
+Universal (N/A), Cannone da 90/53 S., 5
+Universal (N/A), Cannone da 102/40, 6
+Universal (N/A), Cannone da 88/47, 6
+Universal (N/A), Cannone da 90/42, 6
+Universal (N/A), Cannone da 90/42 (ter), 6
+Universal (N/A), Cannone da 90/60, 6
+Universal (N/A), Cannone da 105/53, 7
+Universal (N/A), Cannone da 105/56, 7
+Universal (N/A), Cannone da 105/73, 7
+Universal (N/A), Cannone da 90/53, 7
+Universal (N/A), Cannone da 90/53 (ter), 7
+Universal (N/A), Cannone da 90/62, 7
+Universal (N/A), Cannone da 105/58 Rh V1, 8
+Universal (N/A), Cannone da 105/71, 8
+Universal (N/A), Cannone da 105/76, 8
+Universal (N/A), Cannone da 120/59, 8
+Universal (N/A), Cannone da 120/60, 8
+Universal (N/A), Cannone da 90 Rh, 8
+Universal (N/A), Cannone da 90/50 T119E1, 8
+Universal (N/A), Cannone da 90/50 T119E1M, 8
+Universal (N/A), Cannone da 90/74, 8
+Universal (N/A), 105 mm OTO Melara 105 mod. 57, 9
+Universal (N/A), Cannone binato da 120/59, 9
+Universal (N/A), Cannone da 105 Rh V1, 9
+Universal (N/A), Cannone da 105/55, 9
+Universal (N/A), Cannone da 120/55, 9
+Universal (N/A), Cannone da 120/62, 9
+Universal (N/A), Cannone da 127/58, 9
+Universal (N/A), 105 mm OTO-M-105-51, 10
+Universal (N/A), 127 mm OTO Melara, 10
+Universal (N/A), Cannone da 105/51 M68, 10
+Universal (N/A), Cannone da 105/57, 10
+Universal (N/A), Cannone da 120/67 T53, 10
+Universal (N/A), Cannone da 127 OTO Melara veloce, 10
+Universal (N/A), Cannone da 127/51, 10
+Universal (N/A), Cannone da 130/45, 10
+Universal (N/A), Cannone da 105/55 Sperimentale, 11
+Universal (N/A), 20 mm akan m/40, 1
+Universal (N/A), 20 mm akan m/Madsen, 1
+Universal (N/A), 37 mm kan m/Škoda, 1
+Universal (N/A), 20 mm akan m/Madsen, 2
+Universal (N/A), 20 mm pvlvkan m/40, 2
+Universal (N/A), 37 mm kan m/38 strv, 2
+Universal (N/A), 37 mm kan m/38 strv (40), 2
+Universal (N/A), 37 mm kan fm/32, 3
+Universal (N/A), 37 mm kan m/38-49 strv, 3
+Universal (N/A), 37 mm pvkan m/38, 3
+Universal (N/A), 57 mm pvkan m/43, 3
+Universal (N/A), 7,5 cm kan m/02, 3
+Universal (N/A), 10,5 cm kan ikv 102, 4
+Universal (N/A), 10,5 cm kan m/44 sav, 4
+Universal (N/A), 47 mm Bohler M35, 4
+Universal (N/A), 7,5 cm kan m/41 ikv, 4
+Universal (N/A), 7,5 cm kan m/41 ikv L/50, 4
+Universal (N/A), 7,5 cm kan m/41 ikv L/50 (neglkrut), 4
+Universal (N/A), 7,5 cm kan m/41 strv, 4
+Universal (N/A), 7,5 cm kan m/41 strv (42), 4
+Universal (N/A), 10,5 cm kan ikv 103, 5
+Universal (N/A), 7,5 cm kan m/43 strv, 5
+Universal (N/A), 7,5 cm lvkan m/36, 5
+Universal (N/A), 9 cm Bofors L/43, 5
+Universal (N/A), 7,5 cm kan m/43 strv (Leo), 6
+Universal (N/A), 7,5 cm kan strv 74, 6
+Universal (N/A), 7,5 cm kan strv 74, 6
+Universal (N/A), 9 cm Bofors L/53, 6
+Universal (N/A), 9 cm Bofors L/53 (65), 6
+Universal (N/A), 10 cm kan m/34, 7
+Universal (N/A), 10,5 cm lvkan m/42, 7
+Universal (N/A), 9 cm Bofors strvkan L/53, 7
+Universal (N/A), 9 cm kan m/F, 7
+Universal (N/A), 9 cm kan m/F (90), 7
+Universal (N/A), 10,5 cm TK 105-9, 8
+Universal (N/A), 10,5 cm TK 105-9 (52E2), 8
+Universal (N/A), 10,5 cm kan UDES 03, 8
+Universal (N/A), 10,5 cm kan strv 103 L/51, 8
+Universal (N/A), 10,5 cm strvkan L/45, 8
+Universal (N/A), 10,5 cm strvkan L/45 (16), 8
+Universal (N/A), 10,5 cm strvkan L/50 S, 8
+Universal (N/A), Bofors 120 mm, 8
+Universal (N/A), 10,5 cm kan strv 103 L/62, 9
+Universal (N/A), 10,5 cm kan strv 103 L/62 (103-0), 9
+Universal (N/A), 10,5 cm kan strv K L/52, 9
+Universal (N/A), 10,5 cm lvkan L/67, 9
+Universal (N/A), 10,5 cm strvkan L/45 Alt 3, 9
+Universal (N/A), 10,5 cm strvkan L/51, 9
+Universal (N/A), 10.5 cm K L/53, 9
+Universal (N/A), 105 mm L7 Gun (Ambassador), 9
+Universal (N/A), 12 cm akan L/40 (52E2), 9
+Universal (N/A), 8,4 cm kan strv 81, 9
+Universal (N/A), 10,5 cm kan strv 103 L/51, 10
+Universal (N/A), 10,5 cm kan strv 103 L/62, 10
+Universal (N/A), 12 cm Bofors strvkan L/40, 10
+Universal (N/A), 12 cm akan L/40, 10
+Universal (N/A), 12 cm strvkan L/40, 10
+Universal (N/A), 10,5 cm kan strv 107 L/62, 11
+Universal (N/A), 12 cm högtrycksstrvkan L/40, 11
