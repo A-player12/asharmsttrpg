@@ -42,5 +42,7 @@ for anything you plan to keep using long-term, switch to the standard
 ## Known gaps / things to double check
 
 https://comfy-rolypoly-08764e.netlify.app/manifest.json
+or
+https://rough-smoke-66a1.minpin0305.workers.dev/manifest.json
 
 Just use this, it does not work on Github for whatever reason.. But this works fairly well, still updating it to make it really good but yeah..
