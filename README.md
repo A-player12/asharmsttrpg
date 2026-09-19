@@ -43,6 +43,8 @@ for anything you plan to keep using long-term, switch to the standard
 
 https://comfy-rolypoly-08764e.netlify.app/manifest.json
 or
-https://rough-smoke-66a1.minpin0305.workers.dev/manifest.json
+https://rough-smoke-66a1.minpin0305.workers.dev/manifest.json or https://asharmsdevtest.minpin0305.workers.dev/manifest.json which gets the most updates but is like a beta version but has a lot of neat features..
+
+Also the website to create custom characters and stuff, pretty cool if i do say so myself https://asharmsttrpg.base44.app/
 
 Just use this, it does not work on Github for whatever reason.. But this works fairly well, still updating it to make it really good but yeah..
